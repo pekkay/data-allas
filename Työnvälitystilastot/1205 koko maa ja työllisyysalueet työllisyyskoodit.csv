@@ -1,4 +1,556 @@
 ;;;"Työnhakijoita laskentapäivänä"
+"2026 Lokakuu";"KOKO MAA";"Työllisyyskoodit yhteensä";517048
+"2026 Lokakuu";"KOKO MAA";"00 Työllistetty";6732
+"2026 Lokakuu";"KOKO MAA";"01 Työssä yleisillä työmarkk.";45447
+"2026 Lokakuu";"KOKO MAA";"02 Työtön";312820
+"2026 Lokakuu";"KOKO MAA";"03 Lomautettu";13643
+"2026 Lokakuu";"KOKO MAA";"04 Lyhennetyllä työvkolla";8277
+"2026 Lokakuu";"KOKO MAA";"05 Työvoiman ulkopuolella";10302
+"2026 Lokakuu";"KOKO MAA";"06 Työttömyyseläkkeellä";0
+"2026 Lokakuu";"KOKO MAA";"07 Työllistym. ed. palvelussa";15880
+"2026 Lokakuu";"KOKO MAA";"08 Koulutuksessa";58408
+"2026 Lokakuu";"KOKO MAA";"09 Osa-aikatyössä";45361
+"2026 Lokakuu";"KOKO MAA";" - Tuntematon";178
+"2026 Lokakuu";"7002 Espoo-Kauniainen";"Työllisyyskoodit yhteensä";30412
+"2026 Lokakuu";"7002 Espoo-Kauniainen";"00 Työllistetty";450
+"2026 Lokakuu";"7002 Espoo-Kauniainen";"01 Työssä yleisillä työmarkk.";2046
+"2026 Lokakuu";"7002 Espoo-Kauniainen";"02 Työtön";18871
+"2026 Lokakuu";"7002 Espoo-Kauniainen";"03 Lomautettu";456
+"2026 Lokakuu";"7002 Espoo-Kauniainen";"04 Lyhennetyllä työvkolla";282
+"2026 Lokakuu";"7002 Espoo-Kauniainen";"05 Työvoiman ulkopuolella";593
+"2026 Lokakuu";"7002 Espoo-Kauniainen";"06 Työttömyyseläkkeellä";0
+"2026 Lokakuu";"7002 Espoo-Kauniainen";"07 Työllistym. ed. palvelussa";696
+"2026 Lokakuu";"7002 Espoo-Kauniainen";"08 Koulutuksessa";5147
+"2026 Lokakuu";"7002 Espoo-Kauniainen";"09 Osa-aikatyössä";1866
+"2026 Lokakuu";"7002 Espoo-Kauniainen";" - Tuntematon";5
+"2026 Lokakuu";"7003 Etelä-Häme";"Työllisyyskoodit yhteensä";4744
+"2026 Lokakuu";"7003 Etelä-Häme";"00 Työllistetty";17
+"2026 Lokakuu";"7003 Etelä-Häme";"01 Työssä yleisillä työmarkk.";405
+"2026 Lokakuu";"7003 Etelä-Häme";"02 Työtön";2873
+"2026 Lokakuu";"7003 Etelä-Häme";"03 Lomautettu";104
+"2026 Lokakuu";"7003 Etelä-Häme";"04 Lyhennetyllä työvkolla";37
+"2026 Lokakuu";"7003 Etelä-Häme";"05 Työvoiman ulkopuolella";155
+"2026 Lokakuu";"7003 Etelä-Häme";"06 Työttömyyseläkkeellä";0
+"2026 Lokakuu";"7003 Etelä-Häme";"07 Työllistym. ed. palvelussa";231
+"2026 Lokakuu";"7003 Etelä-Häme";"08 Koulutuksessa";472
+"2026 Lokakuu";"7003 Etelä-Häme";"09 Osa-aikatyössä";450
+"2026 Lokakuu";"7003 Etelä-Häme";" - Tuntematon";0
+"2026 Lokakuu";"7004 Etelä-Karjala";"Työllisyyskoodit yhteensä";11158
+"2026 Lokakuu";"7004 Etelä-Karjala";"00 Työllistetty";76
+"2026 Lokakuu";"7004 Etelä-Karjala";"01 Työssä yleisillä työmarkk.";615
+"2026 Lokakuu";"7004 Etelä-Karjala";"02 Työtön";6790
+"2026 Lokakuu";"7004 Etelä-Karjala";"03 Lomautettu";402
+"2026 Lokakuu";"7004 Etelä-Karjala";"04 Lyhennetyllä työvkolla";110
+"2026 Lokakuu";"7004 Etelä-Karjala";"05 Työvoiman ulkopuolella";53
+"2026 Lokakuu";"7004 Etelä-Karjala";"06 Työttömyyseläkkeellä";0
+"2026 Lokakuu";"7004 Etelä-Karjala";"07 Työllistym. ed. palvelussa";614
+"2026 Lokakuu";"7004 Etelä-Karjala";"08 Koulutuksessa";1208
+"2026 Lokakuu";"7004 Etelä-Karjala";"09 Osa-aikatyössä";1285
+"2026 Lokakuu";"7004 Etelä-Karjala";" - Tuntematon";5
+"2026 Lokakuu";"7005 Etelä-Kymenlaakso";"Työllisyyskoodit yhteensä";7890
+"2026 Lokakuu";"7005 Etelä-Kymenlaakso";"00 Työllistetty";69
+"2026 Lokakuu";"7005 Etelä-Kymenlaakso";"01 Työssä yleisillä työmarkk.";656
+"2026 Lokakuu";"7005 Etelä-Kymenlaakso";"02 Työtön";4802
+"2026 Lokakuu";"7005 Etelä-Kymenlaakso";"03 Lomautettu";202
+"2026 Lokakuu";"7005 Etelä-Kymenlaakso";"04 Lyhennetyllä työvkolla";93
+"2026 Lokakuu";"7005 Etelä-Kymenlaakso";"05 Työvoiman ulkopuolella";52
+"2026 Lokakuu";"7005 Etelä-Kymenlaakso";"06 Työttömyyseläkkeellä";0
+"2026 Lokakuu";"7005 Etelä-Kymenlaakso";"07 Työllistym. ed. palvelussa";255
+"2026 Lokakuu";"7005 Etelä-Kymenlaakso";"08 Koulutuksessa";866
+"2026 Lokakuu";"7005 Etelä-Kymenlaakso";"09 Osa-aikatyössä";895
+"2026 Lokakuu";"7005 Etelä-Kymenlaakso";" - Tuntematon";0
+"2026 Lokakuu";"7006 Etelä-Satakunta";"Työllisyyskoodit yhteensä";4777
+"2026 Lokakuu";"7006 Etelä-Satakunta";"00 Työllistetty";35
+"2026 Lokakuu";"7006 Etelä-Satakunta";"01 Työssä yleisillä työmarkk.";474
+"2026 Lokakuu";"7006 Etelä-Satakunta";"02 Työtön";2760
+"2026 Lokakuu";"7006 Etelä-Satakunta";"03 Lomautettu";127
+"2026 Lokakuu";"7006 Etelä-Satakunta";"04 Lyhennetyllä työvkolla";83
+"2026 Lokakuu";"7006 Etelä-Satakunta";"05 Työvoiman ulkopuolella";104
+"2026 Lokakuu";"7006 Etelä-Satakunta";"06 Työttömyyseläkkeellä";"..."
+"2026 Lokakuu";"7006 Etelä-Satakunta";"07 Työllistym. ed. palvelussa";197
+"2026 Lokakuu";"7006 Etelä-Satakunta";"08 Koulutuksessa";420
+"2026 Lokakuu";"7006 Etelä-Satakunta";"09 Osa-aikatyössä";573
+"2026 Lokakuu";"7006 Etelä-Satakunta";" - Tuntematon";"..."
+"2026 Lokakuu";"7007 Eteläinen Keski-Suomi";"Työllisyyskoodit yhteensä";4396
+"2026 Lokakuu";"7007 Eteläinen Keski-Suomi";"00 Työllistetty";10
+"2026 Lokakuu";"7007 Eteläinen Keski-Suomi";"01 Työssä yleisillä työmarkk.";502
+"2026 Lokakuu";"7007 Eteläinen Keski-Suomi";"02 Työtön";2779
+"2026 Lokakuu";"7007 Eteläinen Keski-Suomi";"03 Lomautettu";124
+"2026 Lokakuu";"7007 Eteläinen Keski-Suomi";"04 Lyhennetyllä työvkolla";67
+"2026 Lokakuu";"7007 Eteläinen Keski-Suomi";"05 Työvoiman ulkopuolella";94
+"2026 Lokakuu";"7007 Eteläinen Keski-Suomi";"06 Työttömyyseläkkeellä";0
+"2026 Lokakuu";"7007 Eteläinen Keski-Suomi";"07 Työllistym. ed. palvelussa";243
+"2026 Lokakuu";"7007 Eteläinen Keski-Suomi";"08 Koulutuksessa";281
+"2026 Lokakuu";"7007 Eteläinen Keski-Suomi";"09 Osa-aikatyössä";296
+"2026 Lokakuu";"7007 Eteläinen Keski-Suomi";" - Tuntematon";0
+"2026 Lokakuu";"7008 Raasepori";"Työllisyyskoodit yhteensä";2546
+"2026 Lokakuu";"7008 Raasepori";"00 Työllistetty";52
+"2026 Lokakuu";"7008 Raasepori";"01 Työssä yleisillä työmarkk.";207
+"2026 Lokakuu";"7008 Raasepori";"02 Työtön";1515
+"2026 Lokakuu";"7008 Raasepori";"03 Lomautettu";74
+"2026 Lokakuu";"7008 Raasepori";"04 Lyhennetyllä työvkolla";42
+"2026 Lokakuu";"7008 Raasepori";"05 Työvoiman ulkopuolella";56
+"2026 Lokakuu";"7008 Raasepori";"06 Työttömyyseläkkeellä";"..."
+"2026 Lokakuu";"7008 Raasepori";"07 Työllistym. ed. palvelussa";66
+"2026 Lokakuu";"7008 Raasepori";"08 Koulutuksessa";189
+"2026 Lokakuu";"7008 Raasepori";"09 Osa-aikatyössä";344
+"2026 Lokakuu";"7008 Raasepori";" - Tuntematon";"..."
+"2026 Lokakuu";"7009 Helsinki";"Työllisyyskoodit yhteensä";76617
+"2026 Lokakuu";"7009 Helsinki";"00 Työllistetty";1294
+"2026 Lokakuu";"7009 Helsinki";"01 Työssä yleisillä työmarkk.";5671
+"2026 Lokakuu";"7009 Helsinki";"02 Työtön";47982
+"2026 Lokakuu";"7009 Helsinki";"03 Lomautettu";1239
+"2026 Lokakuu";"7009 Helsinki";"04 Lyhennetyllä työvkolla";886
+"2026 Lokakuu";"7009 Helsinki";"05 Työvoiman ulkopuolella";1094
+"2026 Lokakuu";"7009 Helsinki";"06 Työttömyyseläkkeellä";0
+"2026 Lokakuu";"7009 Helsinki";"07 Työllistym. ed. palvelussa";1313
+"2026 Lokakuu";"7009 Helsinki";"08 Koulutuksessa";9876
+"2026 Lokakuu";"7009 Helsinki";"09 Osa-aikatyössä";7235
+"2026 Lokakuu";"7009 Helsinki";" - Tuntematon";27
+"2026 Lokakuu";"7010 Jyväskylä-Muurame";"Työllisyyskoodit yhteensä";17742
+"2026 Lokakuu";"7010 Jyväskylä-Muurame";"00 Työllistetty";207
+"2026 Lokakuu";"7010 Jyväskylä-Muurame";"01 Työssä yleisillä työmarkk.";1307
+"2026 Lokakuu";"7010 Jyväskylä-Muurame";"02 Työtön";11351
+"2026 Lokakuu";"7010 Jyväskylä-Muurame";"03 Lomautettu";399
+"2026 Lokakuu";"7010 Jyväskylä-Muurame";"04 Lyhennetyllä työvkolla";257
+"2026 Lokakuu";"7010 Jyväskylä-Muurame";"05 Työvoiman ulkopuolella";181
+"2026 Lokakuu";"7010 Jyväskylä-Muurame";"06 Työttömyyseläkkeellä";"..."
+"2026 Lokakuu";"7010 Jyväskylä-Muurame";"07 Työllistym. ed. palvelussa";761
+"2026 Lokakuu";"7010 Jyväskylä-Muurame";"08 Koulutuksessa";2352
+"2026 Lokakuu";"7010 Jyväskylä-Muurame";"09 Osa-aikatyössä";924
+"2026 Lokakuu";"7010 Jyväskylä-Muurame";" - Tuntematon";"..."
+"2026 Lokakuu";"7011 Kainuu-Koillismaa";"Työllisyyskoodit yhteensä";7112
+"2026 Lokakuu";"7011 Kainuu-Koillismaa";"00 Työllistetty";7
+"2026 Lokakuu";"7011 Kainuu-Koillismaa";"01 Työssä yleisillä työmarkk.";681
+"2026 Lokakuu";"7011 Kainuu-Koillismaa";"02 Työtön";3970
+"2026 Lokakuu";"7011 Kainuu-Koillismaa";"03 Lomautettu";363
+"2026 Lokakuu";"7011 Kainuu-Koillismaa";"04 Lyhennetyllä työvkolla";128
+"2026 Lokakuu";"7011 Kainuu-Koillismaa";"05 Työvoiman ulkopuolella";216
+"2026 Lokakuu";"7011 Kainuu-Koillismaa";"06 Työttömyyseläkkeellä";"..."
+"2026 Lokakuu";"7011 Kainuu-Koillismaa";"07 Työllistym. ed. palvelussa";329
+"2026 Lokakuu";"7011 Kainuu-Koillismaa";"08 Koulutuksessa";702
+"2026 Lokakuu";"7011 Kainuu-Koillismaa";"09 Osa-aikatyössä";715
+"2026 Lokakuu";"7011 Kainuu-Koillismaa";" - Tuntematon";"..."
+"2026 Lokakuu";"7012 Kerava-Sipoo";"Työllisyyskoodit yhteensä";5246
+"2026 Lokakuu";"7012 Kerava-Sipoo";"00 Työllistetty";97
+"2026 Lokakuu";"7012 Kerava-Sipoo";"01 Työssä yleisillä työmarkk.";345
+"2026 Lokakuu";"7012 Kerava-Sipoo";"02 Työtön";3257
+"2026 Lokakuu";"7012 Kerava-Sipoo";"03 Lomautettu";108
+"2026 Lokakuu";"7012 Kerava-Sipoo";"04 Lyhennetyllä työvkolla";51
+"2026 Lokakuu";"7012 Kerava-Sipoo";"05 Työvoiman ulkopuolella";94
+"2026 Lokakuu";"7012 Kerava-Sipoo";"06 Työttömyyseläkkeellä";0
+"2026 Lokakuu";"7012 Kerava-Sipoo";"07 Työllistym. ed. palvelussa";187
+"2026 Lokakuu";"7012 Kerava-Sipoo";"08 Koulutuksessa";614
+"2026 Lokakuu";"7012 Kerava-Sipoo";"09 Osa-aikatyössä";493
+"2026 Lokakuu";"7012 Kerava-Sipoo";" - Tuntematon";0
+"2026 Lokakuu";"7013 Keski-Pohjanmaa";"Työllisyyskoodit yhteensä";5702
+"2026 Lokakuu";"7013 Keski-Pohjanmaa";"00 Työllistetty";96
+"2026 Lokakuu";"7013 Keski-Pohjanmaa";"01 Työssä yleisillä työmarkk.";804
+"2026 Lokakuu";"7013 Keski-Pohjanmaa";"02 Työtön";2626
+"2026 Lokakuu";"7013 Keski-Pohjanmaa";"03 Lomautettu";179
+"2026 Lokakuu";"7013 Keski-Pohjanmaa";"04 Lyhennetyllä työvkolla";170
+"2026 Lokakuu";"7013 Keski-Pohjanmaa";"05 Työvoiman ulkopuolella";199
+"2026 Lokakuu";"7013 Keski-Pohjanmaa";"06 Työttömyyseläkkeellä";0
+"2026 Lokakuu";"7013 Keski-Pohjanmaa";"07 Työllistym. ed. palvelussa";371
+"2026 Lokakuu";"7013 Keski-Pohjanmaa";"08 Koulutuksessa";601
+"2026 Lokakuu";"7013 Keski-Pohjanmaa";"09 Osa-aikatyössä";651
+"2026 Lokakuu";"7013 Keski-Pohjanmaa";" - Tuntematon";5
+"2026 Lokakuu";"7014 Keski-Savo";"Työllisyyskoodit yhteensä";4345
+"2026 Lokakuu";"7014 Keski-Savo";"00 Työllistetty";6
+"2026 Lokakuu";"7014 Keski-Savo";"01 Työssä yleisillä työmarkk.";493
+"2026 Lokakuu";"7014 Keski-Savo";"02 Työtön";2475
+"2026 Lokakuu";"7014 Keski-Savo";"03 Lomautettu";148
+"2026 Lokakuu";"7014 Keski-Savo";"04 Lyhennetyllä työvkolla";71
+"2026 Lokakuu";"7014 Keski-Savo";"05 Työvoiman ulkopuolella";105
+"2026 Lokakuu";"7014 Keski-Savo";"06 Työttömyyseläkkeellä";"..."
+"2026 Lokakuu";"7014 Keski-Savo";"07 Työllistym. ed. palvelussa";215
+"2026 Lokakuu";"7014 Keski-Savo";"08 Koulutuksessa";330
+"2026 Lokakuu";"7014 Keski-Savo";"09 Osa-aikatyössä";500
+"2026 Lokakuu";"7014 Keski-Savo";" - Tuntematon";"..."
+"2026 Lokakuu";"7015 Keski-Uusimaa";"Työllisyyskoodit yhteensä";16762
+"2026 Lokakuu";"7015 Keski-Uusimaa";"00 Työllistetty";290
+"2026 Lokakuu";"7015 Keski-Uusimaa";"01 Työssä yleisillä työmarkk.";1580
+"2026 Lokakuu";"7015 Keski-Uusimaa";"02 Työtön";10667
+"2026 Lokakuu";"7015 Keski-Uusimaa";"03 Lomautettu";543
+"2026 Lokakuu";"7015 Keski-Uusimaa";"04 Lyhennetyllä työvkolla";261
+"2026 Lokakuu";"7015 Keski-Uusimaa";"05 Työvoiman ulkopuolella";309
+"2026 Lokakuu";"7015 Keski-Uusimaa";"06 Työttömyyseläkkeellä";"..."
+"2026 Lokakuu";"7015 Keski-Uusimaa";"07 Työllistym. ed. palvelussa";492
+"2026 Lokakuu";"7015 Keski-Uusimaa";"08 Koulutuksessa";1433
+"2026 Lokakuu";"7015 Keski-Uusimaa";"09 Osa-aikatyössä";1184
+"2026 Lokakuu";"7015 Keski-Uusimaa";" - Tuntematon";"..."
+"2026 Lokakuu";"7016 Kirkkonummi-Vihti-Siuntio";"Työllisyyskoodit yhteensä";5538
+"2026 Lokakuu";"7016 Kirkkonummi-Vihti-Siuntio";"00 Työllistetty";74
+"2026 Lokakuu";"7016 Kirkkonummi-Vihti-Siuntio";"01 Työssä yleisillä työmarkk.";397
+"2026 Lokakuu";"7016 Kirkkonummi-Vihti-Siuntio";"02 Työtön";3658
+"2026 Lokakuu";"7016 Kirkkonummi-Vihti-Siuntio";"03 Lomautettu";141
+"2026 Lokakuu";"7016 Kirkkonummi-Vihti-Siuntio";"04 Lyhennetyllä työvkolla";98
+"2026 Lokakuu";"7016 Kirkkonummi-Vihti-Siuntio";"05 Työvoiman ulkopuolella";89
+"2026 Lokakuu";"7016 Kirkkonummi-Vihti-Siuntio";"06 Työttömyyseläkkeellä";"..."
+"2026 Lokakuu";"7016 Kirkkonummi-Vihti-Siuntio";"07 Työllistym. ed. palvelussa";90
+"2026 Lokakuu";"7016 Kirkkonummi-Vihti-Siuntio";"08 Koulutuksessa";540
+"2026 Lokakuu";"7016 Kirkkonummi-Vihti-Siuntio";"09 Osa-aikatyössä";450
+"2026 Lokakuu";"7016 Kirkkonummi-Vihti-Siuntio";" - Tuntematon";"..."
+"2026 Lokakuu";"7017 Kouvola";"Työllisyyskoodit yhteensä";6929
+"2026 Lokakuu";"7017 Kouvola";"00 Työllistetty";46
+"2026 Lokakuu";"7017 Kouvola";"01 Työssä yleisillä työmarkk.";591
+"2026 Lokakuu";"7017 Kouvola";"02 Työtön";4298
+"2026 Lokakuu";"7017 Kouvola";"03 Lomautettu";253
+"2026 Lokakuu";"7017 Kouvola";"04 Lyhennetyllä työvkolla";56
+"2026 Lokakuu";"7017 Kouvola";"05 Työvoiman ulkopuolella";123
+"2026 Lokakuu";"7017 Kouvola";"06 Työttömyyseläkkeellä";0
+"2026 Lokakuu";"7017 Kouvola";"07 Työllistym. ed. palvelussa";247
+"2026 Lokakuu";"7017 Kouvola";"08 Koulutuksessa";564
+"2026 Lokakuu";"7017 Kouvola";"09 Osa-aikatyössä";751
+"2026 Lokakuu";"7017 Kouvola";" - Tuntematon";0
+"2026 Lokakuu";"7018 Kuopio";"Työllisyyskoodit yhteensä";16163
+"2026 Lokakuu";"7018 Kuopio";"00 Työllistetty";131
+"2026 Lokakuu";"7018 Kuopio";"01 Työssä yleisillä työmarkk.";1615
+"2026 Lokakuu";"7018 Kuopio";"02 Työtön";9414
+"2026 Lokakuu";"7018 Kuopio";"03 Lomautettu";523
+"2026 Lokakuu";"7018 Kuopio";"04 Lyhennetyllä työvkolla";356
+"2026 Lokakuu";"7018 Kuopio";"05 Työvoiman ulkopuolella";314
+"2026 Lokakuu";"7018 Kuopio";"06 Työttömyyseläkkeellä";0
+"2026 Lokakuu";"7018 Kuopio";"07 Työllistym. ed. palvelussa";266
+"2026 Lokakuu";"7018 Kuopio";"08 Koulutuksessa";1748
+"2026 Lokakuu";"7018 Kuopio";"09 Osa-aikatyössä";1789
+"2026 Lokakuu";"7018 Kuopio";" - Tuntematon";7
+"2026 Lokakuu";"7019 Kuntayhtymä Kymppi";"Työllisyyskoodit yhteensä";4456
+"2026 Lokakuu";"7019 Kuntayhtymä Kymppi";"00 Työllistetty";39
+"2026 Lokakuu";"7019 Kuntayhtymä Kymppi";"01 Työssä yleisillä työmarkk.";712
+"2026 Lokakuu";"7019 Kuntayhtymä Kymppi";"02 Työtön";2086
+"2026 Lokakuu";"7019 Kuntayhtymä Kymppi";"03 Lomautettu";181
+"2026 Lokakuu";"7019 Kuntayhtymä Kymppi";"04 Lyhennetyllä työvkolla";160
+"2026 Lokakuu";"7019 Kuntayhtymä Kymppi";"05 Työvoiman ulkopuolella";70
+"2026 Lokakuu";"7019 Kuntayhtymä Kymppi";"06 Työttömyyseläkkeellä";0
+"2026 Lokakuu";"7019 Kuntayhtymä Kymppi";"07 Työllistym. ed. palvelussa";298
+"2026 Lokakuu";"7019 Kuntayhtymä Kymppi";"08 Koulutuksessa";397
+"2026 Lokakuu";"7019 Kuntayhtymä Kymppi";"09 Osa-aikatyössä";508
+"2026 Lokakuu";"7019 Kuntayhtymä Kymppi";" - Tuntematon";5
+"2026 Lokakuu";"7020 Lahti";"Työllisyyskoodit yhteensä";14372
+"2026 Lokakuu";"7020 Lahti";"00 Työllistetty";139
+"2026 Lokakuu";"7020 Lahti";"01 Työssä yleisillä työmarkk.";750
+"2026 Lokakuu";"7020 Lahti";"02 Työtön";9216
+"2026 Lokakuu";"7020 Lahti";"03 Lomautettu";412
+"2026 Lokakuu";"7020 Lahti";"04 Lyhennetyllä työvkolla";388
+"2026 Lokakuu";"7020 Lahti";"05 Työvoiman ulkopuolella";322
+"2026 Lokakuu";"7020 Lahti";"06 Työttömyyseläkkeellä";0
+"2026 Lokakuu";"7020 Lahti";"07 Työllistym. ed. palvelussa";402
+"2026 Lokakuu";"7020 Lahti";"08 Koulutuksessa";1398
+"2026 Lokakuu";"7020 Lahti";"09 Osa-aikatyössä";1340
+"2026 Lokakuu";"7020 Lahti";" - Tuntematon";5
+"2026 Lokakuu";"7021 Lohja-Karkkila";"Työllisyyskoodit yhteensä";4203
+"2026 Lokakuu";"7021 Lohja-Karkkila";"00 Työllistetty";37
+"2026 Lokakuu";"7021 Lohja-Karkkila";"01 Työssä yleisillä työmarkk.";344
+"2026 Lokakuu";"7021 Lohja-Karkkila";"02 Työtön";2577
+"2026 Lokakuu";"7021 Lohja-Karkkila";"03 Lomautettu";177
+"2026 Lokakuu";"7021 Lohja-Karkkila";"04 Lyhennetyllä työvkolla";149
+"2026 Lokakuu";"7021 Lohja-Karkkila";"05 Työvoiman ulkopuolella";87
+"2026 Lokakuu";"7021 Lohja-Karkkila";"06 Työttömyyseläkkeellä";"..."
+"2026 Lokakuu";"7021 Lohja-Karkkila";"07 Työllistym. ed. palvelussa";130
+"2026 Lokakuu";"7021 Lohja-Karkkila";"08 Koulutuksessa";321
+"2026 Lokakuu";"7021 Lohja-Karkkila";"09 Osa-aikatyössä";380
+"2026 Lokakuu";"7021 Lohja-Karkkila";" - Tuntematon";"..."
+"2026 Lokakuu";"7022 Läntinen Pirkanmaa";"Työllisyyskoodit yhteensä";3783
+"2026 Lokakuu";"7022 Läntinen Pirkanmaa";"00 Työllistetty";37
+"2026 Lokakuu";"7022 Läntinen Pirkanmaa";"01 Työssä yleisillä työmarkk.";744
+"2026 Lokakuu";"7022 Läntinen Pirkanmaa";"02 Työtön";2164
+"2026 Lokakuu";"7022 Läntinen Pirkanmaa";"03 Lomautettu";124
+"2026 Lokakuu";"7022 Läntinen Pirkanmaa";"04 Lyhennetyllä työvkolla";61
+"2026 Lokakuu";"7022 Läntinen Pirkanmaa";"05 Työvoiman ulkopuolella";50
+"2026 Lokakuu";"7022 Läntinen Pirkanmaa";"06 Työttömyyseläkkeellä";0
+"2026 Lokakuu";"7022 Läntinen Pirkanmaa";"07 Työllistym. ed. palvelussa";119
+"2026 Lokakuu";"7022 Läntinen Pirkanmaa";"08 Koulutuksessa";198
+"2026 Lokakuu";"7022 Läntinen Pirkanmaa";"09 Osa-aikatyössä";286
+"2026 Lokakuu";"7022 Läntinen Pirkanmaa";" - Tuntematon";0
+"2026 Lokakuu";"7023 Meri-Lappi";"Työllisyyskoodit yhteensä";4545
+"2026 Lokakuu";"7023 Meri-Lappi";"00 Työllistetty";70
+"2026 Lokakuu";"7023 Meri-Lappi";"01 Työssä yleisillä työmarkk.";293
+"2026 Lokakuu";"7023 Meri-Lappi";"02 Työtön";2752
+"2026 Lokakuu";"7023 Meri-Lappi";"03 Lomautettu";197
+"2026 Lokakuu";"7023 Meri-Lappi";"04 Lyhennetyllä työvkolla";22
+"2026 Lokakuu";"7023 Meri-Lappi";"05 Työvoiman ulkopuolella";179
+"2026 Lokakuu";"7023 Meri-Lappi";"06 Työttömyyseläkkeellä";0
+"2026 Lokakuu";"7023 Meri-Lappi";"07 Työllistym. ed. palvelussa";157
+"2026 Lokakuu";"7023 Meri-Lappi";"08 Koulutuksessa";487
+"2026 Lokakuu";"7023 Meri-Lappi";"09 Osa-aikatyössä";382
+"2026 Lokakuu";"7023 Meri-Lappi";" - Tuntematon";6
+"2026 Lokakuu";"7024 Mikkelin seutu";"Työllisyyskoodit yhteensä";5752
+"2026 Lokakuu";"7024 Mikkelin seutu";"00 Työllistetty";69
+"2026 Lokakuu";"7024 Mikkelin seutu";"01 Työssä yleisillä työmarkk.";497
+"2026 Lokakuu";"7024 Mikkelin seutu";"02 Työtön";3314
+"2026 Lokakuu";"7024 Mikkelin seutu";"03 Lomautettu";216
+"2026 Lokakuu";"7024 Mikkelin seutu";"04 Lyhennetyllä työvkolla";71
+"2026 Lokakuu";"7024 Mikkelin seutu";"05 Työvoiman ulkopuolella";70
+"2026 Lokakuu";"7024 Mikkelin seutu";"06 Työttömyyseläkkeellä";"..."
+"2026 Lokakuu";"7024 Mikkelin seutu";"07 Työllistym. ed. palvelussa";393
+"2026 Lokakuu";"7024 Mikkelin seutu";"08 Koulutuksessa";491
+"2026 Lokakuu";"7024 Mikkelin seutu";"09 Osa-aikatyössä";628
+"2026 Lokakuu";"7024 Mikkelin seutu";" - Tuntematon";"..."
+"2026 Lokakuu";"7025 Oulun seutu";"Työllisyyskoodit yhteensä";27571
+"2026 Lokakuu";"7025 Oulun seutu";"00 Työllistetty";555
+"2026 Lokakuu";"7025 Oulun seutu";"01 Työssä yleisillä työmarkk.";2152
+"2026 Lokakuu";"7025 Oulun seutu";"02 Työtön";17511
+"2026 Lokakuu";"7025 Oulun seutu";"03 Lomautettu";754
+"2026 Lokakuu";"7025 Oulun seutu";"04 Lyhennetyllä työvkolla";311
+"2026 Lokakuu";"7025 Oulun seutu";"05 Työvoiman ulkopuolella";502
+"2026 Lokakuu";"7025 Oulun seutu";"06 Työttömyyseläkkeellä";0
+"2026 Lokakuu";"7025 Oulun seutu";"07 Työllistym. ed. palvelussa";657
+"2026 Lokakuu";"7025 Oulun seutu";"08 Koulutuksessa";2959
+"2026 Lokakuu";"7025 Oulun seutu";"09 Osa-aikatyössä";2162
+"2026 Lokakuu";"7025 Oulun seutu";" - Tuntematon";8
+"2026 Lokakuu";"7026 Pietarsaaren seutu";"Työllisyyskoodit yhteensä";2715
+"2026 Lokakuu";"7026 Pietarsaaren seutu";"00 Työllistetty";17
+"2026 Lokakuu";"7026 Pietarsaaren seutu";"01 Työssä yleisillä työmarkk.";370
+"2026 Lokakuu";"7026 Pietarsaaren seutu";"02 Työtön";1116
+"2026 Lokakuu";"7026 Pietarsaaren seutu";"03 Lomautettu";167
+"2026 Lokakuu";"7026 Pietarsaaren seutu";"04 Lyhennetyllä työvkolla";142
+"2026 Lokakuu";"7026 Pietarsaaren seutu";"05 Työvoiman ulkopuolella";70
+"2026 Lokakuu";"7026 Pietarsaaren seutu";"06 Työttömyyseläkkeellä";"..."
+"2026 Lokakuu";"7026 Pietarsaaren seutu";"07 Työllistym. ed. palvelussa";172
+"2026 Lokakuu";"7026 Pietarsaaren seutu";"08 Koulutuksessa";395
+"2026 Lokakuu";"7026 Pietarsaaren seutu";"09 Osa-aikatyössä";265
+"2026 Lokakuu";"7026 Pietarsaaren seutu";" - Tuntematon";"..."
+"2026 Lokakuu";"7027 Pohjanmaa";"Työllisyyskoodit yhteensä";8663
+"2026 Lokakuu";"7027 Pohjanmaa";"00 Työllistetty";106
+"2026 Lokakuu";"7027 Pohjanmaa";"01 Työssä yleisillä työmarkk.";926
+"2026 Lokakuu";"7027 Pohjanmaa";"02 Työtön";4079
+"2026 Lokakuu";"7027 Pohjanmaa";"03 Lomautettu";349
+"2026 Lokakuu";"7027 Pohjanmaa";"04 Lyhennetyllä työvkolla";175
+"2026 Lokakuu";"7027 Pohjanmaa";"05 Työvoiman ulkopuolella";263
+"2026 Lokakuu";"7027 Pohjanmaa";"06 Työttömyyseläkkeellä";"..."
+"2026 Lokakuu";"7027 Pohjanmaa";"07 Työllistym. ed. palvelussa";412
+"2026 Lokakuu";"7027 Pohjanmaa";"08 Koulutuksessa";1302
+"2026 Lokakuu";"7027 Pohjanmaa";"09 Osa-aikatyössä";1048
+"2026 Lokakuu";"7027 Pohjanmaa";" - Tuntematon";"..."
+"2026 Lokakuu";"7028 Pohjoinen Keski-Suomi";"Työllisyyskoodit yhteensä";6724
+"2026 Lokakuu";"7028 Pohjoinen Keski-Suomi";"00 Työllistetty";35
+"2026 Lokakuu";"7028 Pohjoinen Keski-Suomi";"01 Työssä yleisillä työmarkk.";1148
+"2026 Lokakuu";"7028 Pohjoinen Keski-Suomi";"02 Työtön";4083
+"2026 Lokakuu";"7028 Pohjoinen Keski-Suomi";"03 Lomautettu";221
+"2026 Lokakuu";"7028 Pohjoinen Keski-Suomi";"04 Lyhennetyllä työvkolla";139
+"2026 Lokakuu";"7028 Pohjoinen Keski-Suomi";"05 Työvoiman ulkopuolella";56
+"2026 Lokakuu";"7028 Pohjoinen Keski-Suomi";"06 Työttömyyseläkkeellä";"..."
+"2026 Lokakuu";"7028 Pohjoinen Keski-Suomi";"07 Työllistym. ed. palvelussa";246
+"2026 Lokakuu";"7028 Pohjoinen Keski-Suomi";"08 Koulutuksessa";447
+"2026 Lokakuu";"7028 Pohjoinen Keski-Suomi";"09 Osa-aikatyössä";348
+"2026 Lokakuu";"7028 Pohjoinen Keski-Suomi";" - Tuntematon";"..."
+"2026 Lokakuu";"7029 Pohjois- ja Itä-Lappi";"Työllisyyskoodit yhteensä";2533
+"2026 Lokakuu";"7029 Pohjois- ja Itä-Lappi";"00 Työllistetty";33
+"2026 Lokakuu";"7029 Pohjois- ja Itä-Lappi";"01 Työssä yleisillä työmarkk.";432
+"2026 Lokakuu";"7029 Pohjois- ja Itä-Lappi";"02 Työtön";1312
+"2026 Lokakuu";"7029 Pohjois- ja Itä-Lappi";"03 Lomautettu";122
+"2026 Lokakuu";"7029 Pohjois- ja Itä-Lappi";"04 Lyhennetyllä työvkolla";24
+"2026 Lokakuu";"7029 Pohjois- ja Itä-Lappi";"05 Työvoiman ulkopuolella";74
+"2026 Lokakuu";"7029 Pohjois- ja Itä-Lappi";"06 Työttömyyseläkkeellä";"..."
+"2026 Lokakuu";"7029 Pohjois- ja Itä-Lappi";"07 Työllistym. ed. palvelussa";94
+"2026 Lokakuu";"7029 Pohjois- ja Itä-Lappi";"08 Koulutuksessa";119
+"2026 Lokakuu";"7029 Pohjois- ja Itä-Lappi";"09 Osa-aikatyössä";322
+"2026 Lokakuu";"7029 Pohjois- ja Itä-Lappi";" - Tuntematon";"..."
+"2026 Lokakuu";"7040 Pohjois-Karjala";"Työllisyyskoodit yhteensä";16981
+"2026 Lokakuu";"7040 Pohjois-Karjala";"00 Työllistetty";200
+"2026 Lokakuu";"7040 Pohjois-Karjala";"01 Työssä yleisillä työmarkk.";2075
+"2026 Lokakuu";"7040 Pohjois-Karjala";"02 Työtön";9794
+"2026 Lokakuu";"7040 Pohjois-Karjala";"03 Lomautettu";486
+"2026 Lokakuu";"7040 Pohjois-Karjala";"04 Lyhennetyllä työvkolla";277
+"2026 Lokakuu";"7040 Pohjois-Karjala";"05 Työvoiman ulkopuolella";390
+"2026 Lokakuu";"7040 Pohjois-Karjala";"06 Työttömyyseläkkeellä";0
+"2026 Lokakuu";"7040 Pohjois-Karjala";"07 Työllistym. ed. palvelussa";630
+"2026 Lokakuu";"7040 Pohjois-Karjala";"08 Koulutuksessa";1747
+"2026 Lokakuu";"7040 Pohjois-Karjala";"09 Osa-aikatyössä";1376
+"2026 Lokakuu";"7040 Pohjois-Karjala";" - Tuntematon";6
+"2026 Lokakuu";"7041 Porvoo";"Työllisyyskoodit yhteensä";5661
+"2026 Lokakuu";"7041 Porvoo";"00 Työllistetty";26
+"2026 Lokakuu";"7041 Porvoo";"01 Työssä yleisillä työmarkk.";352
+"2026 Lokakuu";"7041 Porvoo";"02 Työtön";3691
+"2026 Lokakuu";"7041 Porvoo";"03 Lomautettu";141
+"2026 Lokakuu";"7041 Porvoo";"04 Lyhennetyllä työvkolla";118
+"2026 Lokakuu";"7041 Porvoo";"05 Työvoiman ulkopuolella";130
+"2026 Lokakuu";"7041 Porvoo";"06 Työttömyyseläkkeellä";"..."
+"2026 Lokakuu";"7041 Porvoo";"07 Työllistym. ed. palvelussa";159
+"2026 Lokakuu";"7041 Porvoo";"08 Koulutuksessa";487
+"2026 Lokakuu";"7041 Porvoo";"09 Osa-aikatyössä";554
+"2026 Lokakuu";"7041 Porvoo";" - Tuntematon";"..."
+"2026 Lokakuu";"7042 Päijät-Häme";"Työllisyyskoodit yhteensä";6171
+"2026 Lokakuu";"7042 Päijät-Häme";"00 Työllistetty";76
+"2026 Lokakuu";"7042 Päijät-Häme";"01 Työssä yleisillä työmarkk.";367
+"2026 Lokakuu";"7042 Päijät-Häme";"02 Työtön";3834
+"2026 Lokakuu";"7042 Päijät-Häme";"03 Lomautettu";244
+"2026 Lokakuu";"7042 Päijät-Häme";"04 Lyhennetyllä työvkolla";182
+"2026 Lokakuu";"7042 Päijät-Häme";"05 Työvoiman ulkopuolella";119
+"2026 Lokakuu";"7042 Päijät-Häme";"06 Työttömyyseläkkeellä";0
+"2026 Lokakuu";"7042 Päijät-Häme";"07 Työllistym. ed. palvelussa";318
+"2026 Lokakuu";"7042 Päijät-Häme";"08 Koulutuksessa";327
+"2026 Lokakuu";"7042 Päijät-Häme";"09 Osa-aikatyössä";704
+"2026 Lokakuu";"7042 Päijät-Häme";" - Tuntematon";0
+"2026 Lokakuu";"7043 Raahe";"Työllisyyskoodit yhteensä";4743
+"2026 Lokakuu";"7043 Raahe";"00 Työllistetty";47
+"2026 Lokakuu";"7043 Raahe";"01 Työssä yleisillä työmarkk.";556
+"2026 Lokakuu";"7043 Raahe";"02 Työtön";2690
+"2026 Lokakuu";"7043 Raahe";"03 Lomautettu";188
+"2026 Lokakuu";"7043 Raahe";"04 Lyhennetyllä työvkolla";117
+"2026 Lokakuu";"7043 Raahe";"05 Työvoiman ulkopuolella";146
+"2026 Lokakuu";"7043 Raahe";"06 Työttömyyseläkkeellä";"..."
+"2026 Lokakuu";"7043 Raahe";"07 Työllistym. ed. palvelussa";204
+"2026 Lokakuu";"7043 Raahe";"08 Koulutuksessa";332
+"2026 Lokakuu";"7043 Raahe";"09 Osa-aikatyössä";460
+"2026 Lokakuu";"7043 Raahe";" - Tuntematon";"..."
+"2026 Lokakuu";"7044 Rovaseutu";"Työllisyyskoodit yhteensä";5151
+"2026 Lokakuu";"7044 Rovaseutu";"00 Työllistetty";99
+"2026 Lokakuu";"7044 Rovaseutu";"01 Työssä yleisillä työmarkk.";805
+"2026 Lokakuu";"7044 Rovaseutu";"02 Työtön";2625
+"2026 Lokakuu";"7044 Rovaseutu";"03 Lomautettu";132
+"2026 Lokakuu";"7044 Rovaseutu";"04 Lyhennetyllä työvkolla";36
+"2026 Lokakuu";"7044 Rovaseutu";"05 Työvoiman ulkopuolella";95
+"2026 Lokakuu";"7044 Rovaseutu";"06 Työttömyyseläkkeellä";"..."
+"2026 Lokakuu";"7044 Rovaseutu";"07 Työllistym. ed. palvelussa";86
+"2026 Lokakuu";"7044 Rovaseutu";"08 Koulutuksessa";654
+"2026 Lokakuu";"7044 Rovaseutu";"09 Osa-aikatyössä";618
+"2026 Lokakuu";"7044 Rovaseutu";" - Tuntematon";"..."
+"2026 Lokakuu";"7045 Salo";"Työllisyyskoodit yhteensä";5108
+"2026 Lokakuu";"7045 Salo";"00 Työllistetty";78
+"2026 Lokakuu";"7045 Salo";"01 Työssä yleisillä työmarkk.";537
+"2026 Lokakuu";"7045 Salo";"02 Työtön";2955
+"2026 Lokakuu";"7045 Salo";"03 Lomautettu";123
+"2026 Lokakuu";"7045 Salo";"04 Lyhennetyllä työvkolla";120
+"2026 Lokakuu";"7045 Salo";"05 Työvoiman ulkopuolella";112
+"2026 Lokakuu";"7045 Salo";"06 Työttömyyseläkkeellä";"..."
+"2026 Lokakuu";"7045 Salo";"07 Työllistym. ed. palvelussa";215
+"2026 Lokakuu";"7045 Salo";"08 Koulutuksessa";594
+"2026 Lokakuu";"7045 Salo";"09 Osa-aikatyössä";372
+"2026 Lokakuu";"7045 Salo";" - Tuntematon";"..."
+"2026 Lokakuu";"7046 Satakunta";"Työllisyyskoodit yhteensä";11746
+"2026 Lokakuu";"7046 Satakunta";"00 Työllistetty";40
+"2026 Lokakuu";"7046 Satakunta";"01 Työssä yleisillä työmarkk.";826
+"2026 Lokakuu";"7046 Satakunta";"02 Työtön";7732
+"2026 Lokakuu";"7046 Satakunta";"03 Lomautettu";308
+"2026 Lokakuu";"7046 Satakunta";"04 Lyhennetyllä työvkolla";241
+"2026 Lokakuu";"7046 Satakunta";"05 Työvoiman ulkopuolella";140
+"2026 Lokakuu";"7046 Satakunta";"06 Työttömyyseläkkeellä";0
+"2026 Lokakuu";"7046 Satakunta";"07 Työllistym. ed. palvelussa";369
+"2026 Lokakuu";"7046 Satakunta";"08 Koulutuksessa";964
+"2026 Lokakuu";"7046 Satakunta";"09 Osa-aikatyössä";1118
+"2026 Lokakuu";"7046 Satakunta";" - Tuntematon";8
+"2026 Lokakuu";"7047 Savonlinna";"Työllisyyskoodit yhteensä";3369
+"2026 Lokakuu";"7047 Savonlinna";"00 Työllistetty";6
+"2026 Lokakuu";"7047 Savonlinna";"01 Työssä yleisillä työmarkk.";396
+"2026 Lokakuu";"7047 Savonlinna";"02 Työtön";1904
+"2026 Lokakuu";"7047 Savonlinna";"03 Lomautettu";75
+"2026 Lokakuu";"7047 Savonlinna";"04 Lyhennetyllä työvkolla";31
+"2026 Lokakuu";"7047 Savonlinna";"05 Työvoiman ulkopuolella";26
+"2026 Lokakuu";"7047 Savonlinna";"06 Työttömyyseläkkeellä";"..."
+"2026 Lokakuu";"7047 Savonlinna";"07 Työllistym. ed. palvelussa";174
+"2026 Lokakuu";"7047 Savonlinna";"08 Koulutuksessa";261
+"2026 Lokakuu";"7047 Savonlinna";"09 Osa-aikatyössä";493
+"2026 Lokakuu";"7047 Savonlinna";" - Tuntematon";"..."
+"2026 Lokakuu";"7048 TyöLakeus";"Työllisyyskoodit yhteensä";6326
+"2026 Lokakuu";"7048 TyöLakeus";"00 Työllistetty";115
+"2026 Lokakuu";"7048 TyöLakeus";"01 Työssä yleisillä työmarkk.";506
+"2026 Lokakuu";"7048 TyöLakeus";"02 Työtön";3348
+"2026 Lokakuu";"7048 TyöLakeus";"03 Lomautettu";124
+"2026 Lokakuu";"7048 TyöLakeus";"04 Lyhennetyllä työvkolla";125
+"2026 Lokakuu";"7048 TyöLakeus";"05 Työvoiman ulkopuolella";182
+"2026 Lokakuu";"7048 TyöLakeus";"06 Työttömyyseläkkeellä";0
+"2026 Lokakuu";"7048 TyöLakeus";"07 Työllistym. ed. palvelussa";335
+"2026 Lokakuu";"7048 TyöLakeus";"08 Koulutuksessa";793
+"2026 Lokakuu";"7048 TyöLakeus";"09 Osa-aikatyössä";793
+"2026 Lokakuu";"7048 TyöLakeus";" - Tuntematon";5
+"2026 Lokakuu";"7049 Suupohja";"Työllisyyskoodit yhteensä";3022
+"2026 Lokakuu";"7049 Suupohja";"00 Työllistetty";20
+"2026 Lokakuu";"7049 Suupohja";"01 Työssä yleisillä työmarkk.";414
+"2026 Lokakuu";"7049 Suupohja";"02 Työtön";1609
+"2026 Lokakuu";"7049 Suupohja";"03 Lomautettu";96
+"2026 Lokakuu";"7049 Suupohja";"04 Lyhennetyllä työvkolla";77
+"2026 Lokakuu";"7049 Suupohja";"05 Työvoiman ulkopuolella";128
+"2026 Lokakuu";"7049 Suupohja";"06 Työttömyyseläkkeellä";"..."
+"2026 Lokakuu";"7049 Suupohja";"07 Työllistym. ed. palvelussa";166
+"2026 Lokakuu";"7049 Suupohja";"08 Koulutuksessa";227
+"2026 Lokakuu";"7049 Suupohja";"09 Osa-aikatyössä";284
+"2026 Lokakuu";"7049 Suupohja";" - Tuntematon";"..."
+"2026 Lokakuu";"7050 Tampereen seutu";"Työllisyyskoodit yhteensä";46494
+"2026 Lokakuu";"7050 Tampereen seutu";"00 Työllistetty";649
+"2026 Lokakuu";"7050 Tampereen seutu";"01 Työssä yleisillä työmarkk.";3433
+"2026 Lokakuu";"7050 Tampereen seutu";"02 Työtön";31288
+"2026 Lokakuu";"7050 Tampereen seutu";"03 Lomautettu";1094
+"2026 Lokakuu";"7050 Tampereen seutu";"04 Lyhennetyllä työvkolla";784
+"2026 Lokakuu";"7050 Tampereen seutu";"05 Työvoiman ulkopuolella";581
+"2026 Lokakuu";"7050 Tampereen seutu";"06 Työttömyyseläkkeellä";0
+"2026 Lokakuu";"7050 Tampereen seutu";"07 Työllistym. ed. palvelussa";1247
+"2026 Lokakuu";"7050 Tampereen seutu";"08 Koulutuksessa";4065
+"2026 Lokakuu";"7050 Tampereen seutu";"09 Osa-aikatyössä";3339
+"2026 Lokakuu";"7050 Tampereen seutu";" - Tuntematon";14
+"2026 Lokakuu";"7051 Tunturi-Lappi ja Pello";"Työllisyyskoodit yhteensä";1451
+"2026 Lokakuu";"7051 Tunturi-Lappi ja Pello";"00 Työllistetty";12
+"2026 Lokakuu";"7051 Tunturi-Lappi ja Pello";"01 Työssä yleisillä työmarkk.";223
+"2026 Lokakuu";"7051 Tunturi-Lappi ja Pello";"02 Työtön";758
+"2026 Lokakuu";"7051 Tunturi-Lappi ja Pello";"03 Lomautettu";97
+"2026 Lokakuu";"7051 Tunturi-Lappi ja Pello";"04 Lyhennetyllä työvkolla";6
+"2026 Lokakuu";"7051 Tunturi-Lappi ja Pello";"05 Työvoiman ulkopuolella";76
+"2026 Lokakuu";"7051 Tunturi-Lappi ja Pello";"06 Työttömyyseläkkeellä";0
+"2026 Lokakuu";"7051 Tunturi-Lappi ja Pello";"07 Työllistym. ed. palvelussa";27
+"2026 Lokakuu";"7051 Tunturi-Lappi ja Pello";"08 Koulutuksessa";76
+"2026 Lokakuu";"7051 Tunturi-Lappi ja Pello";"09 Osa-aikatyössä";176
+"2026 Lokakuu";"7051 Tunturi-Lappi ja Pello";" - Tuntematon";0
+"2026 Lokakuu";"7052 Turku";"Työllisyyskoodit yhteensä";39760
+"2026 Lokakuu";"7052 Turku";"00 Työllistetty";650
+"2026 Lokakuu";"7052 Turku";"01 Työssä yleisillä työmarkk.";3926
+"2026 Lokakuu";"7052 Turku";"02 Työtön";22537
+"2026 Lokakuu";"7052 Turku";"03 Lomautettu";1144
+"2026 Lokakuu";"7052 Turku";"04 Lyhennetyllä työvkolla";605
+"2026 Lokakuu";"7052 Turku";"05 Työvoiman ulkopuolella";1136
+"2026 Lokakuu";"7052 Turku";"06 Työttömyyseläkkeellä";0
+"2026 Lokakuu";"7052 Turku";"07 Työllistym. ed. palvelussa";996
+"2026 Lokakuu";"7052 Turku";"08 Koulutuksessa";5396
+"2026 Lokakuu";"7052 Turku";"09 Osa-aikatyössä";3352
+"2026 Lokakuu";"7052 Turku";" - Tuntematon";18
+"2026 Lokakuu";"7053 TyöHäme";"Työllisyyskoodit yhteensä";9219
+"2026 Lokakuu";"7053 TyöHäme";"00 Työllistetty";64
+"2026 Lokakuu";"7053 TyöHäme";"01 Työssä yleisillä työmarkk.";808
+"2026 Lokakuu";"7053 TyöHäme";"02 Työtön";5200
+"2026 Lokakuu";"7053 TyöHäme";"03 Lomautettu";300
+"2026 Lokakuu";"7053 TyöHäme";"04 Lyhennetyllä työvkolla";307
+"2026 Lokakuu";"7053 TyöHäme";"05 Työvoiman ulkopuolella";249
+"2026 Lokakuu";"7053 TyöHäme";"06 Työttömyyseläkkeellä";"..."
+"2026 Lokakuu";"7053 TyöHäme";"07 Työllistym. ed. palvelussa";442
+"2026 Lokakuu";"7053 TyöHäme";"08 Koulutuksessa";1059
+"2026 Lokakuu";"7053 TyöHäme";"09 Osa-aikatyössä";788
+"2026 Lokakuu";"7053 TyöHäme";" - Tuntematon";"..."
+"2026 Lokakuu";"7054 Vantaa";"Työllisyyskoodit yhteensä";30681
+"2026 Lokakuu";"7054 Vantaa";"00 Työllistetty";469
+"2026 Lokakuu";"7054 Vantaa";"01 Työssä yleisillä työmarkk.";2339
+"2026 Lokakuu";"7054 Vantaa";"02 Työtön";18515
+"2026 Lokakuu";"7054 Vantaa";"03 Lomautettu";533
+"2026 Lokakuu";"7054 Vantaa";"04 Lyhennetyllä työvkolla";213
+"2026 Lokakuu";"7054 Vantaa";"05 Työvoiman ulkopuolella";875
+"2026 Lokakuu";"7054 Vantaa";"06 Työttömyyseläkkeellä";0
+"2026 Lokakuu";"7054 Vantaa";"07 Työllistym. ed. palvelussa";686
+"2026 Lokakuu";"7054 Vantaa";"08 Koulutuksessa";5015
+"2026 Lokakuu";"7054 Vantaa";"09 Osa-aikatyössä";2023
+"2026 Lokakuu";"7054 Vantaa";" - Tuntematon";13
+"2026 Lokakuu";"7055 Ylivieska-Kalajoki-Nivala";"Työllisyyskoodit yhteensä";2981
+"2026 Lokakuu";"7055 Ylivieska-Kalajoki-Nivala";"00 Työllistetty";21
+"2026 Lokakuu";"7055 Ylivieska-Kalajoki-Nivala";"01 Työssä yleisillä työmarkk.";290
+"2026 Lokakuu";"7055 Ylivieska-Kalajoki-Nivala";"02 Työtön";1565
+"2026 Lokakuu";"7055 Ylivieska-Kalajoki-Nivala";"03 Lomautettu";166
+"2026 Lokakuu";"7055 Ylivieska-Kalajoki-Nivala";"04 Lyhennetyllä työvkolla";316
+"2026 Lokakuu";"7055 Ylivieska-Kalajoki-Nivala";"05 Työvoiman ulkopuolella";92
+"2026 Lokakuu";"7055 Ylivieska-Kalajoki-Nivala";"06 Työttömyyseläkkeellä";0
+"2026 Lokakuu";"7055 Ylivieska-Kalajoki-Nivala";"07 Työllistym. ed. palvelussa";83
+"2026 Lokakuu";"7055 Ylivieska-Kalajoki-Nivala";"08 Koulutuksessa";145
+"2026 Lokakuu";"7055 Ylivieska-Kalajoki-Nivala";"09 Osa-aikatyössä";303
+"2026 Lokakuu";"7055 Ylivieska-Kalajoki-Nivala";" - Tuntematon";0
+"2026 Lokakuu";"7056 Ylä-Savo";"Työllisyyskoodit yhteensä";3194
+"2026 Lokakuu";"7056 Ylä-Savo";"00 Työllistetty";24
+"2026 Lokakuu";"7056 Ylä-Savo";"01 Työssä yleisillä työmarkk.";666
+"2026 Lokakuu";"7056 Ylä-Savo";"02 Työtön";1630
+"2026 Lokakuu";"7056 Ylä-Savo";"03 Lomautettu";74
+"2026 Lokakuu";"7056 Ylä-Savo";"04 Lyhennetyllä työvkolla";32
+"2026 Lokakuu";"7056 Ylä-Savo";"05 Työvoiman ulkopuolella";113
+"2026 Lokakuu";"7056 Ylä-Savo";"06 Työttömyyseläkkeellä";"..."
+"2026 Lokakuu";"7056 Ylä-Savo";"07 Työllistym. ed. palvelussa";71
+"2026 Lokakuu";"7056 Ylä-Savo";"08 Koulutuksessa";249
+"2026 Lokakuu";"7056 Ylä-Savo";"09 Osa-aikatyössä";334
+"2026 Lokakuu";"7056 Ylä-Savo";" - Tuntematon";"..."
 "2026 Syyskuu";"KOKO MAA";"Työllisyyskoodit yhteensä";517062
 "2026 Syyskuu";"KOKO MAA";"00 Työllistetty";6964
 "2026 Syyskuu";"KOKO MAA";"01 Työssä yleisillä työmarkk.";48116

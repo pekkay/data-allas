@@ -1,4 +1,556 @@
 ;;;"Pitkäaikaistyöttömät"
+"2026 Lokakuu";"KOKO MAA";"Ikä yhteensä";142037
+"2026 Lokakuu";"KOKO MAA";"15-19 v.";323
+"2026 Lokakuu";"KOKO MAA";"20-24 v.";6573
+"2026 Lokakuu";"KOKO MAA";"25-29 v.";10018
+"2026 Lokakuu";"KOKO MAA";"30-34 v.";14504
+"2026 Lokakuu";"KOKO MAA";"35-39 v.";15530
+"2026 Lokakuu";"KOKO MAA";"40-44 v.";15818
+"2026 Lokakuu";"KOKO MAA";"45-49 v.";15208
+"2026 Lokakuu";"KOKO MAA";"50-54 v.";15014
+"2026 Lokakuu";"KOKO MAA";"55-59 v.";19477
+"2026 Lokakuu";"KOKO MAA";"60-64 v.";28237
+"2026 Lokakuu";"KOKO MAA";"Yli 64 v.";1335
+"2026 Lokakuu";"7002 Espoo-Kauniainen";"Ikä yhteensä";8067
+"2026 Lokakuu";"7002 Espoo-Kauniainen";"15-19 v.";11
+"2026 Lokakuu";"7002 Espoo-Kauniainen";"20-24 v.";283
+"2026 Lokakuu";"7002 Espoo-Kauniainen";"25-29 v.";531
+"2026 Lokakuu";"7002 Espoo-Kauniainen";"30-34 v.";854
+"2026 Lokakuu";"7002 Espoo-Kauniainen";"35-39 v.";1014
+"2026 Lokakuu";"7002 Espoo-Kauniainen";"40-44 v.";966
+"2026 Lokakuu";"7002 Espoo-Kauniainen";"45-49 v.";972
+"2026 Lokakuu";"7002 Espoo-Kauniainen";"50-54 v.";883
+"2026 Lokakuu";"7002 Espoo-Kauniainen";"55-59 v.";1014
+"2026 Lokakuu";"7002 Espoo-Kauniainen";"60-64 v.";1488
+"2026 Lokakuu";"7002 Espoo-Kauniainen";"Yli 64 v.";51
+"2026 Lokakuu";"7003 Etelä-Häme";"Ikä yhteensä";1215
+"2026 Lokakuu";"7003 Etelä-Häme";"15-19 v.";"..."
+"2026 Lokakuu";"7003 Etelä-Häme";"20-24 v.";46
+"2026 Lokakuu";"7003 Etelä-Häme";"25-29 v.";79
+"2026 Lokakuu";"7003 Etelä-Häme";"30-34 v.";130
+"2026 Lokakuu";"7003 Etelä-Häme";"35-39 v.";108
+"2026 Lokakuu";"7003 Etelä-Häme";"40-44 v.";133
+"2026 Lokakuu";"7003 Etelä-Häme";"45-49 v.";96
+"2026 Lokakuu";"7003 Etelä-Häme";"50-54 v.";123
+"2026 Lokakuu";"7003 Etelä-Häme";"55-59 v.";196
+"2026 Lokakuu";"7003 Etelä-Häme";"60-64 v.";285
+"2026 Lokakuu";"7003 Etelä-Häme";"Yli 64 v.";"..."
+"2026 Lokakuu";"7004 Etelä-Karjala";"Ikä yhteensä";2080
+"2026 Lokakuu";"7004 Etelä-Karjala";"15-19 v.";"..."
+"2026 Lokakuu";"7004 Etelä-Karjala";"20-24 v.";81
+"2026 Lokakuu";"7004 Etelä-Karjala";"25-29 v.";114
+"2026 Lokakuu";"7004 Etelä-Karjala";"30-34 v.";135
+"2026 Lokakuu";"7004 Etelä-Karjala";"35-39 v.";166
+"2026 Lokakuu";"7004 Etelä-Karjala";"40-44 v.";204
+"2026 Lokakuu";"7004 Etelä-Karjala";"45-49 v.";197
+"2026 Lokakuu";"7004 Etelä-Karjala";"50-54 v.";211
+"2026 Lokakuu";"7004 Etelä-Karjala";"55-59 v.";360
+"2026 Lokakuu";"7004 Etelä-Karjala";"60-64 v.";594
+"2026 Lokakuu";"7004 Etelä-Karjala";"Yli 64 v.";"..."
+"2026 Lokakuu";"7005 Etelä-Kymenlaakso";"Ikä yhteensä";2090
+"2026 Lokakuu";"7005 Etelä-Kymenlaakso";"15-19 v.";"..."
+"2026 Lokakuu";"7005 Etelä-Kymenlaakso";"20-24 v.";115
+"2026 Lokakuu";"7005 Etelä-Kymenlaakso";"25-29 v.";167
+"2026 Lokakuu";"7005 Etelä-Kymenlaakso";"30-34 v.";162
+"2026 Lokakuu";"7005 Etelä-Kymenlaakso";"35-39 v.";154
+"2026 Lokakuu";"7005 Etelä-Kymenlaakso";"40-44 v.";217
+"2026 Lokakuu";"7005 Etelä-Kymenlaakso";"45-49 v.";193
+"2026 Lokakuu";"7005 Etelä-Kymenlaakso";"50-54 v.";244
+"2026 Lokakuu";"7005 Etelä-Kymenlaakso";"55-59 v.";335
+"2026 Lokakuu";"7005 Etelä-Kymenlaakso";"60-64 v.";487
+"2026 Lokakuu";"7005 Etelä-Kymenlaakso";"Yli 64 v.";"..."
+"2026 Lokakuu";"7006 Etelä-Satakunta";"Ikä yhteensä";1112
+"2026 Lokakuu";"7006 Etelä-Satakunta";"15-19 v.";"..."
+"2026 Lokakuu";"7006 Etelä-Satakunta";"20-24 v.";35
+"2026 Lokakuu";"7006 Etelä-Satakunta";"25-29 v.";67
+"2026 Lokakuu";"7006 Etelä-Satakunta";"30-34 v.";77
+"2026 Lokakuu";"7006 Etelä-Satakunta";"35-39 v.";87
+"2026 Lokakuu";"7006 Etelä-Satakunta";"40-44 v.";120
+"2026 Lokakuu";"7006 Etelä-Satakunta";"45-49 v.";133
+"2026 Lokakuu";"7006 Etelä-Satakunta";"50-54 v.";134
+"2026 Lokakuu";"7006 Etelä-Satakunta";"55-59 v.";165
+"2026 Lokakuu";"7006 Etelä-Satakunta";"60-64 v.";285
+"2026 Lokakuu";"7006 Etelä-Satakunta";"Yli 64 v.";"..."
+"2026 Lokakuu";"7007 Eteläinen Keski-Suomi";"Ikä yhteensä";1228
+"2026 Lokakuu";"7007 Eteläinen Keski-Suomi";"15-19 v.";"..."
+"2026 Lokakuu";"7007 Eteläinen Keski-Suomi";"20-24 v.";48
+"2026 Lokakuu";"7007 Eteläinen Keski-Suomi";"25-29 v.";62
+"2026 Lokakuu";"7007 Eteläinen Keski-Suomi";"30-34 v.";104
+"2026 Lokakuu";"7007 Eteläinen Keski-Suomi";"35-39 v.";88
+"2026 Lokakuu";"7007 Eteläinen Keski-Suomi";"40-44 v.";121
+"2026 Lokakuu";"7007 Eteläinen Keski-Suomi";"45-49 v.";130
+"2026 Lokakuu";"7007 Eteläinen Keski-Suomi";"50-54 v.";139
+"2026 Lokakuu";"7007 Eteläinen Keski-Suomi";"55-59 v.";192
+"2026 Lokakuu";"7007 Eteläinen Keski-Suomi";"60-64 v.";335
+"2026 Lokakuu";"7007 Eteläinen Keski-Suomi";"Yli 64 v.";"..."
+"2026 Lokakuu";"7008 Raasepori";"Ikä yhteensä";785
+"2026 Lokakuu";"7008 Raasepori";"15-19 v.";"..."
+"2026 Lokakuu";"7008 Raasepori";"20-24 v.";22
+"2026 Lokakuu";"7008 Raasepori";"25-29 v.";45
+"2026 Lokakuu";"7008 Raasepori";"30-34 v.";59
+"2026 Lokakuu";"7008 Raasepori";"35-39 v.";66
+"2026 Lokakuu";"7008 Raasepori";"40-44 v.";87
+"2026 Lokakuu";"7008 Raasepori";"45-49 v.";69
+"2026 Lokakuu";"7008 Raasepori";"50-54 v.";111
+"2026 Lokakuu";"7008 Raasepori";"55-59 v.";146
+"2026 Lokakuu";"7008 Raasepori";"60-64 v.";177
+"2026 Lokakuu";"7008 Raasepori";"Yli 64 v.";"..."
+"2026 Lokakuu";"7009 Helsinki";"Ikä yhteensä";23935
+"2026 Lokakuu";"7009 Helsinki";"15-19 v.";28
+"2026 Lokakuu";"7009 Helsinki";"20-24 v.";627
+"2026 Lokakuu";"7009 Helsinki";"25-29 v.";1206
+"2026 Lokakuu";"7009 Helsinki";"30-34 v.";2571
+"2026 Lokakuu";"7009 Helsinki";"35-39 v.";3025
+"2026 Lokakuu";"7009 Helsinki";"40-44 v.";2947
+"2026 Lokakuu";"7009 Helsinki";"45-49 v.";2861
+"2026 Lokakuu";"7009 Helsinki";"50-54 v.";2673
+"2026 Lokakuu";"7009 Helsinki";"55-59 v.";3147
+"2026 Lokakuu";"7009 Helsinki";"60-64 v.";4350
+"2026 Lokakuu";"7009 Helsinki";"Yli 64 v.";500
+"2026 Lokakuu";"7010 Jyväskylä-Muurame";"Ikä yhteensä";5075
+"2026 Lokakuu";"7010 Jyväskylä-Muurame";"15-19 v.";18
+"2026 Lokakuu";"7010 Jyväskylä-Muurame";"20-24 v.";372
+"2026 Lokakuu";"7010 Jyväskylä-Muurame";"25-29 v.";525
+"2026 Lokakuu";"7010 Jyväskylä-Muurame";"30-34 v.";671
+"2026 Lokakuu";"7010 Jyväskylä-Muurame";"35-39 v.";610
+"2026 Lokakuu";"7010 Jyväskylä-Muurame";"40-44 v.";568
+"2026 Lokakuu";"7010 Jyväskylä-Muurame";"45-49 v.";525
+"2026 Lokakuu";"7010 Jyväskylä-Muurame";"50-54 v.";478
+"2026 Lokakuu";"7010 Jyväskylä-Muurame";"55-59 v.";501
+"2026 Lokakuu";"7010 Jyväskylä-Muurame";"60-64 v.";794
+"2026 Lokakuu";"7010 Jyväskylä-Muurame";"Yli 64 v.";13
+"2026 Lokakuu";"7011 Kainuu-Koillismaa";"Ikä yhteensä";1380
+"2026 Lokakuu";"7011 Kainuu-Koillismaa";"15-19 v.";"..."
+"2026 Lokakuu";"7011 Kainuu-Koillismaa";"20-24 v.";61
+"2026 Lokakuu";"7011 Kainuu-Koillismaa";"25-29 v.";80
+"2026 Lokakuu";"7011 Kainuu-Koillismaa";"30-34 v.";119
+"2026 Lokakuu";"7011 Kainuu-Koillismaa";"35-39 v.";122
+"2026 Lokakuu";"7011 Kainuu-Koillismaa";"40-44 v.";141
+"2026 Lokakuu";"7011 Kainuu-Koillismaa";"45-49 v.";108
+"2026 Lokakuu";"7011 Kainuu-Koillismaa";"50-54 v.";129
+"2026 Lokakuu";"7011 Kainuu-Koillismaa";"55-59 v.";218
+"2026 Lokakuu";"7011 Kainuu-Koillismaa";"60-64 v.";385
+"2026 Lokakuu";"7011 Kainuu-Koillismaa";"Yli 64 v.";"..."
+"2026 Lokakuu";"7012 Kerava-Sipoo";"Ikä yhteensä";1332
+"2026 Lokakuu";"7012 Kerava-Sipoo";"15-19 v.";"..."
+"2026 Lokakuu";"7012 Kerava-Sipoo";"20-24 v.";60
+"2026 Lokakuu";"7012 Kerava-Sipoo";"25-29 v.";84
+"2026 Lokakuu";"7012 Kerava-Sipoo";"30-34 v.";134
+"2026 Lokakuu";"7012 Kerava-Sipoo";"35-39 v.";151
+"2026 Lokakuu";"7012 Kerava-Sipoo";"40-44 v.";150
+"2026 Lokakuu";"7012 Kerava-Sipoo";"45-49 v.";130
+"2026 Lokakuu";"7012 Kerava-Sipoo";"50-54 v.";131
+"2026 Lokakuu";"7012 Kerava-Sipoo";"55-59 v.";192
+"2026 Lokakuu";"7012 Kerava-Sipoo";"60-64 v.";291
+"2026 Lokakuu";"7012 Kerava-Sipoo";"Yli 64 v.";"..."
+"2026 Lokakuu";"7013 Keski-Pohjanmaa";"Ikä yhteensä";1033
+"2026 Lokakuu";"7013 Keski-Pohjanmaa";"15-19 v.";"..."
+"2026 Lokakuu";"7013 Keski-Pohjanmaa";"20-24 v.";66
+"2026 Lokakuu";"7013 Keski-Pohjanmaa";"25-29 v.";74
+"2026 Lokakuu";"7013 Keski-Pohjanmaa";"30-34 v.";91
+"2026 Lokakuu";"7013 Keski-Pohjanmaa";"35-39 v.";115
+"2026 Lokakuu";"7013 Keski-Pohjanmaa";"40-44 v.";94
+"2026 Lokakuu";"7013 Keski-Pohjanmaa";"45-49 v.";112
+"2026 Lokakuu";"7013 Keski-Pohjanmaa";"50-54 v.";110
+"2026 Lokakuu";"7013 Keski-Pohjanmaa";"55-59 v.";149
+"2026 Lokakuu";"7013 Keski-Pohjanmaa";"60-64 v.";213
+"2026 Lokakuu";"7013 Keski-Pohjanmaa";"Yli 64 v.";"..."
+"2026 Lokakuu";"7014 Keski-Savo";"Ikä yhteensä";1070
+"2026 Lokakuu";"7014 Keski-Savo";"15-19 v.";"..."
+"2026 Lokakuu";"7014 Keski-Savo";"20-24 v.";50
+"2026 Lokakuu";"7014 Keski-Savo";"25-29 v.";57
+"2026 Lokakuu";"7014 Keski-Savo";"30-34 v.";84
+"2026 Lokakuu";"7014 Keski-Savo";"35-39 v.";100
+"2026 Lokakuu";"7014 Keski-Savo";"40-44 v.";105
+"2026 Lokakuu";"7014 Keski-Savo";"45-49 v.";114
+"2026 Lokakuu";"7014 Keski-Savo";"50-54 v.";121
+"2026 Lokakuu";"7014 Keski-Savo";"55-59 v.";169
+"2026 Lokakuu";"7014 Keski-Savo";"60-64 v.";254
+"2026 Lokakuu";"7014 Keski-Savo";"Yli 64 v.";"..."
+"2026 Lokakuu";"7015 Keski-Uusimaa";"Ikä yhteensä";5615
+"2026 Lokakuu";"7015 Keski-Uusimaa";"15-19 v.";13
+"2026 Lokakuu";"7015 Keski-Uusimaa";"20-24 v.";274
+"2026 Lokakuu";"7015 Keski-Uusimaa";"25-29 v.";421
+"2026 Lokakuu";"7015 Keski-Uusimaa";"30-34 v.";570
+"2026 Lokakuu";"7015 Keski-Uusimaa";"35-39 v.";599
+"2026 Lokakuu";"7015 Keski-Uusimaa";"40-44 v.";596
+"2026 Lokakuu";"7015 Keski-Uusimaa";"45-49 v.";548
+"2026 Lokakuu";"7015 Keski-Uusimaa";"50-54 v.";595
+"2026 Lokakuu";"7015 Keski-Uusimaa";"55-59 v.";756
+"2026 Lokakuu";"7015 Keski-Uusimaa";"60-64 v.";1153
+"2026 Lokakuu";"7015 Keski-Uusimaa";"Yli 64 v.";90
+"2026 Lokakuu";"7016 Kirkkonummi-Vihti-Siuntio";"Ikä yhteensä";1911
+"2026 Lokakuu";"7016 Kirkkonummi-Vihti-Siuntio";"15-19 v.";"..."
+"2026 Lokakuu";"7016 Kirkkonummi-Vihti-Siuntio";"20-24 v.";78
+"2026 Lokakuu";"7016 Kirkkonummi-Vihti-Siuntio";"25-29 v.";130
+"2026 Lokakuu";"7016 Kirkkonummi-Vihti-Siuntio";"30-34 v.";159
+"2026 Lokakuu";"7016 Kirkkonummi-Vihti-Siuntio";"35-39 v.";197
+"2026 Lokakuu";"7016 Kirkkonummi-Vihti-Siuntio";"40-44 v.";197
+"2026 Lokakuu";"7016 Kirkkonummi-Vihti-Siuntio";"45-49 v.";207
+"2026 Lokakuu";"7016 Kirkkonummi-Vihti-Siuntio";"50-54 v.";191
+"2026 Lokakuu";"7016 Kirkkonummi-Vihti-Siuntio";"55-59 v.";305
+"2026 Lokakuu";"7016 Kirkkonummi-Vihti-Siuntio";"60-64 v.";432
+"2026 Lokakuu";"7016 Kirkkonummi-Vihti-Siuntio";"Yli 64 v.";"..."
+"2026 Lokakuu";"7017 Kouvola";"Ikä yhteensä";1942
+"2026 Lokakuu";"7017 Kouvola";"15-19 v.";"..."
+"2026 Lokakuu";"7017 Kouvola";"20-24 v.";63
+"2026 Lokakuu";"7017 Kouvola";"25-29 v.";115
+"2026 Lokakuu";"7017 Kouvola";"30-34 v.";181
+"2026 Lokakuu";"7017 Kouvola";"35-39 v.";198
+"2026 Lokakuu";"7017 Kouvola";"40-44 v.";196
+"2026 Lokakuu";"7017 Kouvola";"45-49 v.";177
+"2026 Lokakuu";"7017 Kouvola";"50-54 v.";198
+"2026 Lokakuu";"7017 Kouvola";"55-59 v.";317
+"2026 Lokakuu";"7017 Kouvola";"60-64 v.";481
+"2026 Lokakuu";"7017 Kouvola";"Yli 64 v.";"..."
+"2026 Lokakuu";"7018 Kuopio";"Ikä yhteensä";4654
+"2026 Lokakuu";"7018 Kuopio";"15-19 v.";27
+"2026 Lokakuu";"7018 Kuopio";"20-24 v.";333
+"2026 Lokakuu";"7018 Kuopio";"25-29 v.";403
+"2026 Lokakuu";"7018 Kuopio";"30-34 v.";504
+"2026 Lokakuu";"7018 Kuopio";"35-39 v.";476
+"2026 Lokakuu";"7018 Kuopio";"40-44 v.";465
+"2026 Lokakuu";"7018 Kuopio";"45-49 v.";470
+"2026 Lokakuu";"7018 Kuopio";"50-54 v.";453
+"2026 Lokakuu";"7018 Kuopio";"55-59 v.";607
+"2026 Lokakuu";"7018 Kuopio";"60-64 v.";887
+"2026 Lokakuu";"7018 Kuopio";"Yli 64 v.";29
+"2026 Lokakuu";"7019 Kuntayhtymä Kymppi";"Ikä yhteensä";626
+"2026 Lokakuu";"7019 Kuntayhtymä Kymppi";"15-19 v.";"..."
+"2026 Lokakuu";"7019 Kuntayhtymä Kymppi";"20-24 v.";32
+"2026 Lokakuu";"7019 Kuntayhtymä Kymppi";"25-29 v.";44
+"2026 Lokakuu";"7019 Kuntayhtymä Kymppi";"30-34 v.";52
+"2026 Lokakuu";"7019 Kuntayhtymä Kymppi";"35-39 v.";59
+"2026 Lokakuu";"7019 Kuntayhtymä Kymppi";"40-44 v.";55
+"2026 Lokakuu";"7019 Kuntayhtymä Kymppi";"45-49 v.";64
+"2026 Lokakuu";"7019 Kuntayhtymä Kymppi";"50-54 v.";81
+"2026 Lokakuu";"7019 Kuntayhtymä Kymppi";"55-59 v.";93
+"2026 Lokakuu";"7019 Kuntayhtymä Kymppi";"60-64 v.";138
+"2026 Lokakuu";"7019 Kuntayhtymä Kymppi";"Yli 64 v.";"..."
+"2026 Lokakuu";"7020 Lahti";"Ikä yhteensä";4699
+"2026 Lokakuu";"7020 Lahti";"15-19 v.";13
+"2026 Lokakuu";"7020 Lahti";"20-24 v.";200
+"2026 Lokakuu";"7020 Lahti";"25-29 v.";347
+"2026 Lokakuu";"7020 Lahti";"30-34 v.";495
+"2026 Lokakuu";"7020 Lahti";"35-39 v.";500
+"2026 Lokakuu";"7020 Lahti";"40-44 v.";535
+"2026 Lokakuu";"7020 Lahti";"45-49 v.";558
+"2026 Lokakuu";"7020 Lahti";"50-54 v.";512
+"2026 Lokakuu";"7020 Lahti";"55-59 v.";644
+"2026 Lokakuu";"7020 Lahti";"60-64 v.";873
+"2026 Lokakuu";"7020 Lahti";"Yli 64 v.";22
+"2026 Lokakuu";"7021 Lohja-Karkkila";"Ikä yhteensä";1341
+"2026 Lokakuu";"7021 Lohja-Karkkila";"15-19 v.";"..."
+"2026 Lokakuu";"7021 Lohja-Karkkila";"20-24 v.";38
+"2026 Lokakuu";"7021 Lohja-Karkkila";"25-29 v.";90
+"2026 Lokakuu";"7021 Lohja-Karkkila";"30-34 v.";118
+"2026 Lokakuu";"7021 Lohja-Karkkila";"35-39 v.";121
+"2026 Lokakuu";"7021 Lohja-Karkkila";"40-44 v.";142
+"2026 Lokakuu";"7021 Lohja-Karkkila";"45-49 v.";148
+"2026 Lokakuu";"7021 Lohja-Karkkila";"50-54 v.";131
+"2026 Lokakuu";"7021 Lohja-Karkkila";"55-59 v.";213
+"2026 Lokakuu";"7021 Lohja-Karkkila";"60-64 v.";332
+"2026 Lokakuu";"7021 Lohja-Karkkila";"Yli 64 v.";"..."
+"2026 Lokakuu";"7022 Läntinen Pirkanmaa";"Ikä yhteensä";840
+"2026 Lokakuu";"7022 Läntinen Pirkanmaa";"15-19 v.";"..."
+"2026 Lokakuu";"7022 Läntinen Pirkanmaa";"20-24 v.";30
+"2026 Lokakuu";"7022 Läntinen Pirkanmaa";"25-29 v.";40
+"2026 Lokakuu";"7022 Läntinen Pirkanmaa";"30-34 v.";66
+"2026 Lokakuu";"7022 Läntinen Pirkanmaa";"35-39 v.";85
+"2026 Lokakuu";"7022 Läntinen Pirkanmaa";"40-44 v.";84
+"2026 Lokakuu";"7022 Läntinen Pirkanmaa";"45-49 v.";90
+"2026 Lokakuu";"7022 Läntinen Pirkanmaa";"50-54 v.";91
+"2026 Lokakuu";"7022 Läntinen Pirkanmaa";"55-59 v.";156
+"2026 Lokakuu";"7022 Läntinen Pirkanmaa";"60-64 v.";192
+"2026 Lokakuu";"7022 Läntinen Pirkanmaa";"Yli 64 v.";"..."
+"2026 Lokakuu";"7023 Meri-Lappi";"Ikä yhteensä";968
+"2026 Lokakuu";"7023 Meri-Lappi";"15-19 v.";"..."
+"2026 Lokakuu";"7023 Meri-Lappi";"20-24 v.";46
+"2026 Lokakuu";"7023 Meri-Lappi";"25-29 v.";79
+"2026 Lokakuu";"7023 Meri-Lappi";"30-34 v.";87
+"2026 Lokakuu";"7023 Meri-Lappi";"35-39 v.";74
+"2026 Lokakuu";"7023 Meri-Lappi";"40-44 v.";91
+"2026 Lokakuu";"7023 Meri-Lappi";"45-49 v.";96
+"2026 Lokakuu";"7023 Meri-Lappi";"50-54 v.";106
+"2026 Lokakuu";"7023 Meri-Lappi";"55-59 v.";155
+"2026 Lokakuu";"7023 Meri-Lappi";"60-64 v.";226
+"2026 Lokakuu";"7023 Meri-Lappi";"Yli 64 v.";"..."
+"2026 Lokakuu";"7024 Mikkelin seutu";"Ikä yhteensä";1435
+"2026 Lokakuu";"7024 Mikkelin seutu";"15-19 v.";6
+"2026 Lokakuu";"7024 Mikkelin seutu";"20-24 v.";68
+"2026 Lokakuu";"7024 Mikkelin seutu";"25-29 v.";107
+"2026 Lokakuu";"7024 Mikkelin seutu";"30-34 v.";119
+"2026 Lokakuu";"7024 Mikkelin seutu";"35-39 v.";136
+"2026 Lokakuu";"7024 Mikkelin seutu";"40-44 v.";140
+"2026 Lokakuu";"7024 Mikkelin seutu";"45-49 v.";133
+"2026 Lokakuu";"7024 Mikkelin seutu";"50-54 v.";166
+"2026 Lokakuu";"7024 Mikkelin seutu";"55-59 v.";225
+"2026 Lokakuu";"7024 Mikkelin seutu";"60-64 v.";326
+"2026 Lokakuu";"7024 Mikkelin seutu";"Yli 64 v.";9
+"2026 Lokakuu";"7025 Oulun seutu";"Ikä yhteensä";8280
+"2026 Lokakuu";"7025 Oulun seutu";"15-19 v.";24
+"2026 Lokakuu";"7025 Oulun seutu";"20-24 v.";610
+"2026 Lokakuu";"7025 Oulun seutu";"25-29 v.";781
+"2026 Lokakuu";"7025 Oulun seutu";"30-34 v.";1006
+"2026 Lokakuu";"7025 Oulun seutu";"35-39 v.";911
+"2026 Lokakuu";"7025 Oulun seutu";"40-44 v.";927
+"2026 Lokakuu";"7025 Oulun seutu";"45-49 v.";812
+"2026 Lokakuu";"7025 Oulun seutu";"50-54 v.";828
+"2026 Lokakuu";"7025 Oulun seutu";"55-59 v.";967
+"2026 Lokakuu";"7025 Oulun seutu";"60-64 v.";1358
+"2026 Lokakuu";"7025 Oulun seutu";"Yli 64 v.";56
+"2026 Lokakuu";"7026 Pietarsaaren seutu";"Ikä yhteensä";376
+"2026 Lokakuu";"7026 Pietarsaaren seutu";"15-19 v.";0
+"2026 Lokakuu";"7026 Pietarsaaren seutu";"20-24 v.";16
+"2026 Lokakuu";"7026 Pietarsaaren seutu";"25-29 v.";26
+"2026 Lokakuu";"7026 Pietarsaaren seutu";"30-34 v.";37
+"2026 Lokakuu";"7026 Pietarsaaren seutu";"35-39 v.";44
+"2026 Lokakuu";"7026 Pietarsaaren seutu";"40-44 v.";21
+"2026 Lokakuu";"7026 Pietarsaaren seutu";"45-49 v.";35
+"2026 Lokakuu";"7026 Pietarsaaren seutu";"50-54 v.";29
+"2026 Lokakuu";"7026 Pietarsaaren seutu";"55-59 v.";66
+"2026 Lokakuu";"7026 Pietarsaaren seutu";"60-64 v.";96
+"2026 Lokakuu";"7026 Pietarsaaren seutu";"Yli 64 v.";6
+"2026 Lokakuu";"7027 Pohjanmaa";"Ikä yhteensä";1666
+"2026 Lokakuu";"7027 Pohjanmaa";"15-19 v.";"..."
+"2026 Lokakuu";"7027 Pohjanmaa";"20-24 v.";59
+"2026 Lokakuu";"7027 Pohjanmaa";"25-29 v.";104
+"2026 Lokakuu";"7027 Pohjanmaa";"30-34 v.";136
+"2026 Lokakuu";"7027 Pohjanmaa";"35-39 v.";163
+"2026 Lokakuu";"7027 Pohjanmaa";"40-44 v.";182
+"2026 Lokakuu";"7027 Pohjanmaa";"45-49 v.";187
+"2026 Lokakuu";"7027 Pohjanmaa";"50-54 v.";184
+"2026 Lokakuu";"7027 Pohjanmaa";"55-59 v.";268
+"2026 Lokakuu";"7027 Pohjanmaa";"60-64 v.";369
+"2026 Lokakuu";"7027 Pohjanmaa";"Yli 64 v.";"..."
+"2026 Lokakuu";"7028 Pohjoinen Keski-Suomi";"Ikä yhteensä";1788
+"2026 Lokakuu";"7028 Pohjoinen Keski-Suomi";"15-19 v.";"..."
+"2026 Lokakuu";"7028 Pohjoinen Keski-Suomi";"20-24 v.";89
+"2026 Lokakuu";"7028 Pohjoinen Keski-Suomi";"25-29 v.";106
+"2026 Lokakuu";"7028 Pohjoinen Keski-Suomi";"30-34 v.";138
+"2026 Lokakuu";"7028 Pohjoinen Keski-Suomi";"35-39 v.";155
+"2026 Lokakuu";"7028 Pohjoinen Keski-Suomi";"40-44 v.";166
+"2026 Lokakuu";"7028 Pohjoinen Keski-Suomi";"45-49 v.";170
+"2026 Lokakuu";"7028 Pohjoinen Keski-Suomi";"50-54 v.";192
+"2026 Lokakuu";"7028 Pohjoinen Keski-Suomi";"55-59 v.";306
+"2026 Lokakuu";"7028 Pohjoinen Keski-Suomi";"60-64 v.";444
+"2026 Lokakuu";"7028 Pohjoinen Keski-Suomi";"Yli 64 v.";"..."
+"2026 Lokakuu";"7029 Pohjois- ja Itä-Lappi";"Ikä yhteensä";439
+"2026 Lokakuu";"7029 Pohjois- ja Itä-Lappi";"15-19 v.";0
+"2026 Lokakuu";"7029 Pohjois- ja Itä-Lappi";"20-24 v.";5
+"2026 Lokakuu";"7029 Pohjois- ja Itä-Lappi";"25-29 v.";20
+"2026 Lokakuu";"7029 Pohjois- ja Itä-Lappi";"30-34 v.";25
+"2026 Lokakuu";"7029 Pohjois- ja Itä-Lappi";"35-39 v.";30
+"2026 Lokakuu";"7029 Pohjois- ja Itä-Lappi";"40-44 v.";37
+"2026 Lokakuu";"7029 Pohjois- ja Itä-Lappi";"45-49 v.";43
+"2026 Lokakuu";"7029 Pohjois- ja Itä-Lappi";"50-54 v.";45
+"2026 Lokakuu";"7029 Pohjois- ja Itä-Lappi";"55-59 v.";76
+"2026 Lokakuu";"7029 Pohjois- ja Itä-Lappi";"60-64 v.";149
+"2026 Lokakuu";"7029 Pohjois- ja Itä-Lappi";"Yli 64 v.";9
+"2026 Lokakuu";"7040 Pohjois-Karjala";"Ikä yhteensä";4662
+"2026 Lokakuu";"7040 Pohjois-Karjala";"15-19 v.";11
+"2026 Lokakuu";"7040 Pohjois-Karjala";"20-24 v.";246
+"2026 Lokakuu";"7040 Pohjois-Karjala";"25-29 v.";347
+"2026 Lokakuu";"7040 Pohjois-Karjala";"30-34 v.";409
+"2026 Lokakuu";"7040 Pohjois-Karjala";"35-39 v.";461
+"2026 Lokakuu";"7040 Pohjois-Karjala";"40-44 v.";468
+"2026 Lokakuu";"7040 Pohjois-Karjala";"45-49 v.";483
+"2026 Lokakuu";"7040 Pohjois-Karjala";"50-54 v.";514
+"2026 Lokakuu";"7040 Pohjois-Karjala";"55-59 v.";655
+"2026 Lokakuu";"7040 Pohjois-Karjala";"60-64 v.";1034
+"2026 Lokakuu";"7040 Pohjois-Karjala";"Yli 64 v.";34
+"2026 Lokakuu";"7041 Porvoo";"Ikä yhteensä";1802
+"2026 Lokakuu";"7041 Porvoo";"15-19 v.";"..."
+"2026 Lokakuu";"7041 Porvoo";"20-24 v.";74
+"2026 Lokakuu";"7041 Porvoo";"25-29 v.";112
+"2026 Lokakuu";"7041 Porvoo";"30-34 v.";122
+"2026 Lokakuu";"7041 Porvoo";"35-39 v.";155
+"2026 Lokakuu";"7041 Porvoo";"40-44 v.";165
+"2026 Lokakuu";"7041 Porvoo";"45-49 v.";190
+"2026 Lokakuu";"7041 Porvoo";"50-54 v.";226
+"2026 Lokakuu";"7041 Porvoo";"55-59 v.";283
+"2026 Lokakuu";"7041 Porvoo";"60-64 v.";458
+"2026 Lokakuu";"7041 Porvoo";"Yli 64 v.";"..."
+"2026 Lokakuu";"7042 Päijät-Häme";"Ikä yhteensä";1787
+"2026 Lokakuu";"7042 Päijät-Häme";"15-19 v.";"..."
+"2026 Lokakuu";"7042 Päijät-Häme";"20-24 v.";40
+"2026 Lokakuu";"7042 Päijät-Häme";"25-29 v.";75
+"2026 Lokakuu";"7042 Päijät-Häme";"30-34 v.";118
+"2026 Lokakuu";"7042 Päijät-Häme";"35-39 v.";136
+"2026 Lokakuu";"7042 Päijät-Häme";"40-44 v.";158
+"2026 Lokakuu";"7042 Päijät-Häme";"45-49 v.";170
+"2026 Lokakuu";"7042 Päijät-Häme";"50-54 v.";216
+"2026 Lokakuu";"7042 Päijät-Häme";"55-59 v.";329
+"2026 Lokakuu";"7042 Päijät-Häme";"60-64 v.";526
+"2026 Lokakuu";"7042 Päijät-Häme";"Yli 64 v.";"..."
+"2026 Lokakuu";"7043 Raahe";"Ikä yhteensä";1126
+"2026 Lokakuu";"7043 Raahe";"15-19 v.";"..."
+"2026 Lokakuu";"7043 Raahe";"20-24 v.";56
+"2026 Lokakuu";"7043 Raahe";"25-29 v.";65
+"2026 Lokakuu";"7043 Raahe";"30-34 v.";97
+"2026 Lokakuu";"7043 Raahe";"35-39 v.";79
+"2026 Lokakuu";"7043 Raahe";"40-44 v.";99
+"2026 Lokakuu";"7043 Raahe";"45-49 v.";120
+"2026 Lokakuu";"7043 Raahe";"50-54 v.";116
+"2026 Lokakuu";"7043 Raahe";"55-59 v.";206
+"2026 Lokakuu";"7043 Raahe";"60-64 v.";278
+"2026 Lokakuu";"7043 Raahe";"Yli 64 v.";"..."
+"2026 Lokakuu";"7044 Rovaseutu";"Ikä yhteensä";852
+"2026 Lokakuu";"7044 Rovaseutu";"15-19 v.";0
+"2026 Lokakuu";"7044 Rovaseutu";"20-24 v.";36
+"2026 Lokakuu";"7044 Rovaseutu";"25-29 v.";50
+"2026 Lokakuu";"7044 Rovaseutu";"30-34 v.";76
+"2026 Lokakuu";"7044 Rovaseutu";"35-39 v.";84
+"2026 Lokakuu";"7044 Rovaseutu";"40-44 v.";99
+"2026 Lokakuu";"7044 Rovaseutu";"45-49 v.";98
+"2026 Lokakuu";"7044 Rovaseutu";"50-54 v.";77
+"2026 Lokakuu";"7044 Rovaseutu";"55-59 v.";127
+"2026 Lokakuu";"7044 Rovaseutu";"60-64 v.";197
+"2026 Lokakuu";"7044 Rovaseutu";"Yli 64 v.";8
+"2026 Lokakuu";"7045 Salo";"Ikä yhteensä";1270
+"2026 Lokakuu";"7045 Salo";"15-19 v.";"..."
+"2026 Lokakuu";"7045 Salo";"20-24 v.";35
+"2026 Lokakuu";"7045 Salo";"25-29 v.";57
+"2026 Lokakuu";"7045 Salo";"30-34 v.";81
+"2026 Lokakuu";"7045 Salo";"35-39 v.";115
+"2026 Lokakuu";"7045 Salo";"40-44 v.";129
+"2026 Lokakuu";"7045 Salo";"45-49 v.";173
+"2026 Lokakuu";"7045 Salo";"50-54 v.";154
+"2026 Lokakuu";"7045 Salo";"55-59 v.";213
+"2026 Lokakuu";"7045 Salo";"60-64 v.";300
+"2026 Lokakuu";"7045 Salo";"Yli 64 v.";"..."
+"2026 Lokakuu";"7046 Satakunta";"Ikä yhteensä";3032
+"2026 Lokakuu";"7046 Satakunta";"15-19 v.";10
+"2026 Lokakuu";"7046 Satakunta";"20-24 v.";153
+"2026 Lokakuu";"7046 Satakunta";"25-29 v.";210
+"2026 Lokakuu";"7046 Satakunta";"30-34 v.";303
+"2026 Lokakuu";"7046 Satakunta";"35-39 v.";315
+"2026 Lokakuu";"7046 Satakunta";"40-44 v.";271
+"2026 Lokakuu";"7046 Satakunta";"45-49 v.";290
+"2026 Lokakuu";"7046 Satakunta";"50-54 v.";269
+"2026 Lokakuu";"7046 Satakunta";"55-59 v.";483
+"2026 Lokakuu";"7046 Satakunta";"60-64 v.";713
+"2026 Lokakuu";"7046 Satakunta";"Yli 64 v.";15
+"2026 Lokakuu";"7047 Savonlinna";"Ikä yhteensä";836
+"2026 Lokakuu";"7047 Savonlinna";"15-19 v.";"..."
+"2026 Lokakuu";"7047 Savonlinna";"20-24 v.";34
+"2026 Lokakuu";"7047 Savonlinna";"25-29 v.";48
+"2026 Lokakuu";"7047 Savonlinna";"30-34 v.";70
+"2026 Lokakuu";"7047 Savonlinna";"35-39 v.";87
+"2026 Lokakuu";"7047 Savonlinna";"40-44 v.";86
+"2026 Lokakuu";"7047 Savonlinna";"45-49 v.";71
+"2026 Lokakuu";"7047 Savonlinna";"50-54 v.";89
+"2026 Lokakuu";"7047 Savonlinna";"55-59 v.";131
+"2026 Lokakuu";"7047 Savonlinna";"60-64 v.";208
+"2026 Lokakuu";"7047 Savonlinna";"Yli 64 v.";"..."
+"2026 Lokakuu";"7048 TyöLakeus";"Ikä yhteensä";1355
+"2026 Lokakuu";"7048 TyöLakeus";"15-19 v.";"..."
+"2026 Lokakuu";"7048 TyöLakeus";"20-24 v.";84
+"2026 Lokakuu";"7048 TyöLakeus";"25-29 v.";122
+"2026 Lokakuu";"7048 TyöLakeus";"30-34 v.";134
+"2026 Lokakuu";"7048 TyöLakeus";"35-39 v.";148
+"2026 Lokakuu";"7048 TyöLakeus";"40-44 v.";156
+"2026 Lokakuu";"7048 TyöLakeus";"45-49 v.";147
+"2026 Lokakuu";"7048 TyöLakeus";"50-54 v.";139
+"2026 Lokakuu";"7048 TyöLakeus";"55-59 v.";181
+"2026 Lokakuu";"7048 TyöLakeus";"60-64 v.";235
+"2026 Lokakuu";"7048 TyöLakeus";"Yli 64 v.";"..."
+"2026 Lokakuu";"7049 Suupohja";"Ikä yhteensä";651
+"2026 Lokakuu";"7049 Suupohja";"15-19 v.";"..."
+"2026 Lokakuu";"7049 Suupohja";"20-24 v.";39
+"2026 Lokakuu";"7049 Suupohja";"25-29 v.";63
+"2026 Lokakuu";"7049 Suupohja";"30-34 v.";52
+"2026 Lokakuu";"7049 Suupohja";"35-39 v.";52
+"2026 Lokakuu";"7049 Suupohja";"40-44 v.";70
+"2026 Lokakuu";"7049 Suupohja";"45-49 v.";55
+"2026 Lokakuu";"7049 Suupohja";"50-54 v.";68
+"2026 Lokakuu";"7049 Suupohja";"55-59 v.";109
+"2026 Lokakuu";"7049 Suupohja";"60-64 v.";135
+"2026 Lokakuu";"7049 Suupohja";"Yli 64 v.";"..."
+"2026 Lokakuu";"7050 Tampereen seutu";"Ikä yhteensä";14467
+"2026 Lokakuu";"7050 Tampereen seutu";"15-19 v.";27
+"2026 Lokakuu";"7050 Tampereen seutu";"20-24 v.";796
+"2026 Lokakuu";"7050 Tampereen seutu";"25-29 v.";1229
+"2026 Lokakuu";"7050 Tampereen seutu";"30-34 v.";1706
+"2026 Lokakuu";"7050 Tampereen seutu";"35-39 v.";1722
+"2026 Lokakuu";"7050 Tampereen seutu";"40-44 v.";1684
+"2026 Lokakuu";"7050 Tampereen seutu";"45-49 v.";1506
+"2026 Lokakuu";"7050 Tampereen seutu";"50-54 v.";1444
+"2026 Lokakuu";"7050 Tampereen seutu";"55-59 v.";1754
+"2026 Lokakuu";"7050 Tampereen seutu";"60-64 v.";2511
+"2026 Lokakuu";"7050 Tampereen seutu";"Yli 64 v.";88
+"2026 Lokakuu";"7051 Tunturi-Lappi ja Pello";"Ikä yhteensä";145
+"2026 Lokakuu";"7051 Tunturi-Lappi ja Pello";"15-19 v.";"..."
+"2026 Lokakuu";"7051 Tunturi-Lappi ja Pello";"20-24 v.";"..."
+"2026 Lokakuu";"7051 Tunturi-Lappi ja Pello";"25-29 v.";9
+"2026 Lokakuu";"7051 Tunturi-Lappi ja Pello";"30-34 v.";7
+"2026 Lokakuu";"7051 Tunturi-Lappi ja Pello";"35-39 v.";11
+"2026 Lokakuu";"7051 Tunturi-Lappi ja Pello";"40-44 v.";16
+"2026 Lokakuu";"7051 Tunturi-Lappi ja Pello";"45-49 v.";12
+"2026 Lokakuu";"7051 Tunturi-Lappi ja Pello";"50-54 v.";15
+"2026 Lokakuu";"7051 Tunturi-Lappi ja Pello";"55-59 v.";15
+"2026 Lokakuu";"7051 Tunturi-Lappi ja Pello";"60-64 v.";54
+"2026 Lokakuu";"7051 Tunturi-Lappi ja Pello";"Yli 64 v.";5
+"2026 Lokakuu";"7052 Turku";"Ikä yhteensä";10325
+"2026 Lokakuu";"7052 Turku";"15-19 v.";27
+"2026 Lokakuu";"7052 Turku";"20-24 v.";572
+"2026 Lokakuu";"7052 Turku";"25-29 v.";784
+"2026 Lokakuu";"7052 Turku";"30-34 v.";1148
+"2026 Lokakuu";"7052 Turku";"35-39 v.";1157
+"2026 Lokakuu";"7052 Turku";"40-44 v.";1154
+"2026 Lokakuu";"7052 Turku";"45-49 v.";1100
+"2026 Lokakuu";"7052 Turku";"50-54 v.";1049
+"2026 Lokakuu";"7052 Turku";"55-59 v.";1374
+"2026 Lokakuu";"7052 Turku";"60-64 v.";1877
+"2026 Lokakuu";"7052 Turku";"Yli 64 v.";83
+"2026 Lokakuu";"7053 TyöHäme";"Ikä yhteensä";2433
+"2026 Lokakuu";"7053 TyöHäme";"15-19 v.";8
+"2026 Lokakuu";"7053 TyöHäme";"20-24 v.";101
+"2026 Lokakuu";"7053 TyöHäme";"25-29 v.";137
+"2026 Lokakuu";"7053 TyöHäme";"30-34 v.";182
+"2026 Lokakuu";"7053 TyöHäme";"35-39 v.";211
+"2026 Lokakuu";"7053 TyöHäme";"40-44 v.";251
+"2026 Lokakuu";"7053 TyöHäme";"45-49 v.";269
+"2026 Lokakuu";"7053 TyöHäme";"50-54 v.";268
+"2026 Lokakuu";"7053 TyöHäme";"55-59 v.";404
+"2026 Lokakuu";"7053 TyöHäme";"60-64 v.";586
+"2026 Lokakuu";"7053 TyöHäme";"Yli 64 v.";16
+"2026 Lokakuu";"7054 Vantaa";"Ikä yhteensä";8569
+"2026 Lokakuu";"7054 Vantaa";"15-19 v.";27
+"2026 Lokakuu";"7054 Vantaa";"20-24 v.";438
+"2026 Lokakuu";"7054 Vantaa";"25-29 v.";699
+"2026 Lokakuu";"7054 Vantaa";"30-34 v.";941
+"2026 Lokakuu";"7054 Vantaa";"35-39 v.";1076
+"2026 Lokakuu";"7054 Vantaa";"40-44 v.";1127
+"2026 Lokakuu";"7054 Vantaa";"45-49 v.";927
+"2026 Lokakuu";"7054 Vantaa";"50-54 v.";877
+"2026 Lokakuu";"7054 Vantaa";"55-59 v.";1024
+"2026 Lokakuu";"7054 Vantaa";"60-64 v.";1389
+"2026 Lokakuu";"7054 Vantaa";"Yli 64 v.";44
+"2026 Lokakuu";"7055 Ylivieska-Kalajoki-Nivala";"Ikä yhteensä";694
+"2026 Lokakuu";"7055 Ylivieska-Kalajoki-Nivala";"15-19 v.";"..."
+"2026 Lokakuu";"7055 Ylivieska-Kalajoki-Nivala";"20-24 v.";22
+"2026 Lokakuu";"7055 Ylivieska-Kalajoki-Nivala";"25-29 v.";42
+"2026 Lokakuu";"7055 Ylivieska-Kalajoki-Nivala";"30-34 v.";84
+"2026 Lokakuu";"7055 Ylivieska-Kalajoki-Nivala";"35-39 v.";64
+"2026 Lokakuu";"7055 Ylivieska-Kalajoki-Nivala";"40-44 v.";83
+"2026 Lokakuu";"7055 Ylivieska-Kalajoki-Nivala";"45-49 v.";99
+"2026 Lokakuu";"7055 Ylivieska-Kalajoki-Nivala";"50-54 v.";87
+"2026 Lokakuu";"7055 Ylivieska-Kalajoki-Nivala";"55-59 v.";95
+"2026 Lokakuu";"7055 Ylivieska-Kalajoki-Nivala";"60-64 v.";113
+"2026 Lokakuu";"7055 Ylivieska-Kalajoki-Nivala";"Yli 64 v.";"..."
+"2026 Lokakuu";"7056 Ylä-Savo";"Ikä yhteensä";754
+"2026 Lokakuu";"7056 Ylä-Savo";"15-19 v.";"..."
+"2026 Lokakuu";"7056 Ylä-Savo";"20-24 v.";29
+"2026 Lokakuu";"7056 Ylä-Savo";"25-29 v.";46
+"2026 Lokakuu";"7056 Ylä-Savo";"30-34 v.";62
+"2026 Lokakuu";"7056 Ylä-Savo";"35-39 v.";70
+"2026 Lokakuu";"7056 Ylä-Savo";"40-44 v.";71
+"2026 Lokakuu";"7056 Ylä-Savo";"45-49 v.";83
+"2026 Lokakuu";"7056 Ylä-Savo";"50-54 v.";82
+"2026 Lokakuu";"7056 Ylä-Savo";"55-59 v.";112
+"2026 Lokakuu";"7056 Ylä-Savo";"60-64 v.";189
+"2026 Lokakuu";"7056 Ylä-Savo";"Yli 64 v.";"..."
 "2026 Syyskuu";"KOKO MAA";"Ikä yhteensä";142678
 "2026 Syyskuu";"KOKO MAA";"15-19 v.";366
 "2026 Syyskuu";"KOKO MAA";"20-24 v.";6734

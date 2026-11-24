@@ -1,4 +1,280 @@
 ;;;;"Työnhakijoita laskentapäivänä"
+"2026 Lokakuu";"KOKO MAA";"02 Työtön";"53-78 vkoa";35025
+"2026 Lokakuu";"KOKO MAA";"02 Työtön";"79-104 vkoa";24657
+"2026 Lokakuu";"KOKO MAA";"02 Työtön";"2-3 v.";35071
+"2026 Lokakuu";"KOKO MAA";"02 Työtön";"3-4 v.";17184
+"2026 Lokakuu";"KOKO MAA";"02 Työtön";"4-5 v.";9982
+"2026 Lokakuu";"KOKO MAA";"02 Työtön";"Yli 5 v.";17288
+"2026 Lokakuu";"7002 Espoo-Kauniainen";"02 Työtön";"53-78 vkoa";1984
+"2026 Lokakuu";"7002 Espoo-Kauniainen";"02 Työtön";"79-104 vkoa";1354
+"2026 Lokakuu";"7002 Espoo-Kauniainen";"02 Työtön";"2-3 v.";2007
+"2026 Lokakuu";"7002 Espoo-Kauniainen";"02 Työtön";"3-4 v.";976
+"2026 Lokakuu";"7002 Espoo-Kauniainen";"02 Työtön";"4-5 v.";498
+"2026 Lokakuu";"7002 Espoo-Kauniainen";"02 Työtön";"Yli 5 v.";1122
+"2026 Lokakuu";"7003 Etelä-Häme";"02 Työtön";"53-78 vkoa";350
+"2026 Lokakuu";"7003 Etelä-Häme";"02 Työtön";"79-104 vkoa";286
+"2026 Lokakuu";"7003 Etelä-Häme";"02 Työtön";"2-3 v.";292
+"2026 Lokakuu";"7003 Etelä-Häme";"02 Työtön";"3-4 v.";122
+"2026 Lokakuu";"7003 Etelä-Häme";"02 Työtön";"4-5 v.";66
+"2026 Lokakuu";"7003 Etelä-Häme";"02 Työtön";"Yli 5 v.";68
+"2026 Lokakuu";"7004 Etelä-Karjala";"02 Työtön";"53-78 vkoa";607
+"2026 Lokakuu";"7004 Etelä-Karjala";"02 Työtön";"79-104 vkoa";373
+"2026 Lokakuu";"7004 Etelä-Karjala";"02 Työtön";"2-3 v.";533
+"2026 Lokakuu";"7004 Etelä-Karjala";"02 Työtön";"3-4 v.";239
+"2026 Lokakuu";"7004 Etelä-Karjala";"02 Työtön";"4-5 v.";147
+"2026 Lokakuu";"7004 Etelä-Karjala";"02 Työtön";"Yli 5 v.";126
+"2026 Lokakuu";"7005 Etelä-Kymenlaakso";"02 Työtön";"53-78 vkoa";560
+"2026 Lokakuu";"7005 Etelä-Kymenlaakso";"02 Työtön";"79-104 vkoa";395
+"2026 Lokakuu";"7005 Etelä-Kymenlaakso";"02 Työtön";"2-3 v.";468
+"2026 Lokakuu";"7005 Etelä-Kymenlaakso";"02 Työtön";"3-4 v.";242
+"2026 Lokakuu";"7005 Etelä-Kymenlaakso";"02 Työtön";"4-5 v.";132
+"2026 Lokakuu";"7005 Etelä-Kymenlaakso";"02 Työtön";"Yli 5 v.";246
+"2026 Lokakuu";"7006 Etelä-Satakunta";"02 Työtön";"53-78 vkoa";307
+"2026 Lokakuu";"7006 Etelä-Satakunta";"02 Työtön";"79-104 vkoa";180
+"2026 Lokakuu";"7006 Etelä-Satakunta";"02 Työtön";"2-3 v.";308
+"2026 Lokakuu";"7006 Etelä-Satakunta";"02 Työtön";"3-4 v.";125
+"2026 Lokakuu";"7006 Etelä-Satakunta";"02 Työtön";"4-5 v.";68
+"2026 Lokakuu";"7006 Etelä-Satakunta";"02 Työtön";"Yli 5 v.";98
+"2026 Lokakuu";"7007 Eteläinen Keski-Suomi";"02 Työtön";"53-78 vkoa";346
+"2026 Lokakuu";"7007 Eteläinen Keski-Suomi";"02 Työtön";"79-104 vkoa";214
+"2026 Lokakuu";"7007 Eteläinen Keski-Suomi";"02 Työtön";"2-3 v.";303
+"2026 Lokakuu";"7007 Eteläinen Keski-Suomi";"02 Työtön";"3-4 v.";153
+"2026 Lokakuu";"7007 Eteläinen Keski-Suomi";"02 Työtön";"4-5 v.";91
+"2026 Lokakuu";"7007 Eteläinen Keski-Suomi";"02 Työtön";"Yli 5 v.";90
+"2026 Lokakuu";"7008 Raasepori";"02 Työtön";"53-78 vkoa";164
+"2026 Lokakuu";"7008 Raasepori";"02 Työtön";"79-104 vkoa";120
+"2026 Lokakuu";"7008 Raasepori";"02 Työtön";"2-3 v.";164
+"2026 Lokakuu";"7008 Raasepori";"02 Työtön";"3-4 v.";100
+"2026 Lokakuu";"7008 Raasepori";"02 Työtön";"4-5 v.";72
+"2026 Lokakuu";"7008 Raasepori";"02 Työtön";"Yli 5 v.";148
+"2026 Lokakuu";"7009 Helsinki";"02 Työtön";"53-78 vkoa";4877
+"2026 Lokakuu";"7009 Helsinki";"02 Työtön";"79-104 vkoa";3805
+"2026 Lokakuu";"7009 Helsinki";"02 Työtön";"2-3 v.";5678
+"2026 Lokakuu";"7009 Helsinki";"02 Työtön";"3-4 v.";2772
+"2026 Lokakuu";"7009 Helsinki";"02 Työtön";"4-5 v.";1873
+"2026 Lokakuu";"7009 Helsinki";"02 Työtön";"Yli 5 v.";4466
+"2026 Lokakuu";"7010 Jyväskylä-Muurame";"02 Työtön";"53-78 vkoa";1206
+"2026 Lokakuu";"7010 Jyväskylä-Muurame";"02 Työtön";"79-104 vkoa";845
+"2026 Lokakuu";"7010 Jyväskylä-Muurame";"02 Työtön";"2-3 v.";1184
+"2026 Lokakuu";"7010 Jyväskylä-Muurame";"02 Työtön";"3-4 v.";574
+"2026 Lokakuu";"7010 Jyväskylä-Muurame";"02 Työtön";"4-5 v.";385
+"2026 Lokakuu";"7010 Jyväskylä-Muurame";"02 Työtön";"Yli 5 v.";809
+"2026 Lokakuu";"7011 Kainuu-Koillismaa";"02 Työtön";"53-78 vkoa";409
+"2026 Lokakuu";"7011 Kainuu-Koillismaa";"02 Työtön";"79-104 vkoa";264
+"2026 Lokakuu";"7011 Kainuu-Koillismaa";"02 Työtön";"2-3 v.";354
+"2026 Lokakuu";"7011 Kainuu-Koillismaa";"02 Työtön";"3-4 v.";186
+"2026 Lokakuu";"7011 Kainuu-Koillismaa";"02 Työtön";"4-5 v.";76
+"2026 Lokakuu";"7011 Kainuu-Koillismaa";"02 Työtön";"Yli 5 v.";57
+"2026 Lokakuu";"7012 Kerava-Sipoo";"02 Työtön";"53-78 vkoa";325
+"2026 Lokakuu";"7012 Kerava-Sipoo";"02 Työtön";"79-104 vkoa";246
+"2026 Lokakuu";"7012 Kerava-Sipoo";"02 Työtön";"2-3 v.";324
+"2026 Lokakuu";"7012 Kerava-Sipoo";"02 Työtön";"3-4 v.";159
+"2026 Lokakuu";"7012 Kerava-Sipoo";"02 Työtön";"4-5 v.";92
+"2026 Lokakuu";"7012 Kerava-Sipoo";"02 Työtön";"Yli 5 v.";157
+"2026 Lokakuu";"7013 Keski-Pohjanmaa";"02 Työtön";"53-78 vkoa";285
+"2026 Lokakuu";"7013 Keski-Pohjanmaa";"02 Työtön";"79-104 vkoa";175
+"2026 Lokakuu";"7013 Keski-Pohjanmaa";"02 Työtön";"2-3 v.";224
+"2026 Lokakuu";"7013 Keski-Pohjanmaa";"02 Työtön";"3-4 v.";121
+"2026 Lokakuu";"7013 Keski-Pohjanmaa";"02 Työtön";"4-5 v.";84
+"2026 Lokakuu";"7013 Keski-Pohjanmaa";"02 Työtön";"Yli 5 v.";122
+"2026 Lokakuu";"7014 Keski-Savo";"02 Työtön";"53-78 vkoa";322
+"2026 Lokakuu";"7014 Keski-Savo";"02 Työtön";"79-104 vkoa";207
+"2026 Lokakuu";"7014 Keski-Savo";"02 Työtön";"2-3 v.";278
+"2026 Lokakuu";"7014 Keski-Savo";"02 Työtön";"3-4 v.";114
+"2026 Lokakuu";"7014 Keski-Savo";"02 Työtön";"4-5 v.";61
+"2026 Lokakuu";"7014 Keski-Savo";"02 Työtön";"Yli 5 v.";58
+"2026 Lokakuu";"7015 Keski-Uusimaa";"02 Työtön";"53-78 vkoa";1277
+"2026 Lokakuu";"7015 Keski-Uusimaa";"02 Työtön";"79-104 vkoa";924
+"2026 Lokakuu";"7015 Keski-Uusimaa";"02 Työtön";"2-3 v.";1334
+"2026 Lokakuu";"7015 Keski-Uusimaa";"02 Työtön";"3-4 v.";706
+"2026 Lokakuu";"7015 Keski-Uusimaa";"02 Työtön";"4-5 v.";434
+"2026 Lokakuu";"7015 Keski-Uusimaa";"02 Työtön";"Yli 5 v.";801
+"2026 Lokakuu";"7016 Kirkkonummi-Vihti-Siuntio";"02 Työtön";"53-78 vkoa";403
+"2026 Lokakuu";"7016 Kirkkonummi-Vihti-Siuntio";"02 Työtön";"79-104 vkoa";326
+"2026 Lokakuu";"7016 Kirkkonummi-Vihti-Siuntio";"02 Työtön";"2-3 v.";533
+"2026 Lokakuu";"7016 Kirkkonummi-Vihti-Siuntio";"02 Työtön";"3-4 v.";250
+"2026 Lokakuu";"7016 Kirkkonummi-Vihti-Siuntio";"02 Työtön";"4-5 v.";151
+"2026 Lokakuu";"7016 Kirkkonummi-Vihti-Siuntio";"02 Työtön";"Yli 5 v.";218
+"2026 Lokakuu";"7017 Kouvola";"02 Työtön";"53-78 vkoa";482
+"2026 Lokakuu";"7017 Kouvola";"02 Työtön";"79-104 vkoa";337
+"2026 Lokakuu";"7017 Kouvola";"02 Työtön";"2-3 v.";576
+"2026 Lokakuu";"7017 Kouvola";"02 Työtön";"3-4 v.";228
+"2026 Lokakuu";"7017 Kouvola";"02 Työtön";"4-5 v.";134
+"2026 Lokakuu";"7017 Kouvola";"02 Työtön";"Yli 5 v.";134
+"2026 Lokakuu";"7018 Kuopio";"02 Työtön";"53-78 vkoa";1010
+"2026 Lokakuu";"7018 Kuopio";"02 Työtön";"79-104 vkoa";845
+"2026 Lokakuu";"7018 Kuopio";"02 Työtön";"2-3 v.";1151
+"2026 Lokakuu";"7018 Kuopio";"02 Työtön";"3-4 v.";633
+"2026 Lokakuu";"7018 Kuopio";"02 Työtön";"4-5 v.";267
+"2026 Lokakuu";"7018 Kuopio";"02 Työtön";"Yli 5 v.";655
+"2026 Lokakuu";"7019 Kuntayhtymä Kymppi";"02 Työtön";"53-78 vkoa";212
+"2026 Lokakuu";"7019 Kuntayhtymä Kymppi";"02 Työtön";"79-104 vkoa";137
+"2026 Lokakuu";"7019 Kuntayhtymä Kymppi";"02 Työtön";"2-3 v.";152
+"2026 Lokakuu";"7019 Kuntayhtymä Kymppi";"02 Työtön";"3-4 v.";51
+"2026 Lokakuu";"7019 Kuntayhtymä Kymppi";"02 Työtön";"4-5 v.";20
+"2026 Lokakuu";"7019 Kuntayhtymä Kymppi";"02 Työtön";"Yli 5 v.";32
+"2026 Lokakuu";"7020 Lahti";"02 Työtön";"53-78 vkoa";1038
+"2026 Lokakuu";"7020 Lahti";"02 Työtön";"79-104 vkoa";857
+"2026 Lokakuu";"7020 Lahti";"02 Työtön";"2-3 v.";1242
+"2026 Lokakuu";"7020 Lahti";"02 Työtön";"3-4 v.";482
+"2026 Lokakuu";"7020 Lahti";"02 Työtön";"4-5 v.";268
+"2026 Lokakuu";"7020 Lahti";"02 Työtön";"Yli 5 v.";720
+"2026 Lokakuu";"7021 Lohja-Karkkila";"02 Työtön";"53-78 vkoa";302
+"2026 Lokakuu";"7021 Lohja-Karkkila";"02 Työtön";"79-104 vkoa";247
+"2026 Lokakuu";"7021 Lohja-Karkkila";"02 Työtön";"2-3 v.";360
+"2026 Lokakuu";"7021 Lohja-Karkkila";"02 Työtön";"3-4 v.";169
+"2026 Lokakuu";"7021 Lohja-Karkkila";"02 Työtön";"4-5 v.";90
+"2026 Lokakuu";"7021 Lohja-Karkkila";"02 Työtön";"Yli 5 v.";126
+"2026 Lokakuu";"7022 Läntinen Pirkanmaa";"02 Työtön";"53-78 vkoa";289
+"2026 Lokakuu";"7022 Läntinen Pirkanmaa";"02 Työtön";"79-104 vkoa";160
+"2026 Lokakuu";"7022 Läntinen Pirkanmaa";"02 Työtön";"2-3 v.";172
+"2026 Lokakuu";"7022 Läntinen Pirkanmaa";"02 Työtön";"3-4 v.";91
+"2026 Lokakuu";"7022 Läntinen Pirkanmaa";"02 Työtön";"4-5 v.";61
+"2026 Lokakuu";"7022 Läntinen Pirkanmaa";"02 Työtön";"Yli 5 v.";52
+"2026 Lokakuu";"7023 Meri-Lappi";"02 Työtön";"53-78 vkoa";278
+"2026 Lokakuu";"7023 Meri-Lappi";"02 Työtön";"79-104 vkoa";198
+"2026 Lokakuu";"7023 Meri-Lappi";"02 Työtön";"2-3 v.";277
+"2026 Lokakuu";"7023 Meri-Lappi";"02 Työtön";"3-4 v.";101
+"2026 Lokakuu";"7023 Meri-Lappi";"02 Työtön";"4-5 v.";62
+"2026 Lokakuu";"7023 Meri-Lappi";"02 Työtön";"Yli 5 v.";51
+"2026 Lokakuu";"7024 Mikkelin seutu";"02 Työtön";"53-78 vkoa";362
+"2026 Lokakuu";"7024 Mikkelin seutu";"02 Työtön";"79-104 vkoa";252
+"2026 Lokakuu";"7024 Mikkelin seutu";"02 Työtön";"2-3 v.";369
+"2026 Lokakuu";"7024 Mikkelin seutu";"02 Työtön";"3-4 v.";154
+"2026 Lokakuu";"7024 Mikkelin seutu";"02 Työtön";"4-5 v.";99
+"2026 Lokakuu";"7024 Mikkelin seutu";"02 Työtön";"Yli 5 v.";165
+"2026 Lokakuu";"7025 Oulun seutu";"02 Työtön";"53-78 vkoa";1909
+"2026 Lokakuu";"7025 Oulun seutu";"02 Työtön";"79-104 vkoa";1280
+"2026 Lokakuu";"7025 Oulun seutu";"02 Työtön";"2-3 v.";1937
+"2026 Lokakuu";"7025 Oulun seutu";"02 Työtön";"3-4 v.";1108
+"2026 Lokakuu";"7025 Oulun seutu";"02 Työtön";"4-5 v.";747
+"2026 Lokakuu";"7025 Oulun seutu";"02 Työtön";"Yli 5 v.";1187
+"2026 Lokakuu";"7026 Pietarsaaren seutu";"02 Työtön";"53-78 vkoa";96
+"2026 Lokakuu";"7026 Pietarsaaren seutu";"02 Työtön";"79-104 vkoa";68
+"2026 Lokakuu";"7026 Pietarsaaren seutu";"02 Työtön";"2-3 v.";109
+"2026 Lokakuu";"7026 Pietarsaaren seutu";"02 Työtön";"3-4 v.";36
+"2026 Lokakuu";"7026 Pietarsaaren seutu";"02 Työtön";"4-5 v.";27
+"2026 Lokakuu";"7026 Pietarsaaren seutu";"02 Työtön";"Yli 5 v.";25
+"2026 Lokakuu";"7027 Pohjanmaa";"02 Työtön";"53-78 vkoa";469
+"2026 Lokakuu";"7027 Pohjanmaa";"02 Työtön";"79-104 vkoa";321
+"2026 Lokakuu";"7027 Pohjanmaa";"02 Työtön";"2-3 v.";381
+"2026 Lokakuu";"7027 Pohjanmaa";"02 Työtön";"3-4 v.";214
+"2026 Lokakuu";"7027 Pohjanmaa";"02 Työtön";"4-5 v.";101
+"2026 Lokakuu";"7027 Pohjanmaa";"02 Työtön";"Yli 5 v.";150
+"2026 Lokakuu";"7028 Pohjoinen Keski-Suomi";"02 Työtön";"53-78 vkoa";479
+"2026 Lokakuu";"7028 Pohjoinen Keski-Suomi";"02 Työtön";"79-104 vkoa";334
+"2026 Lokakuu";"7028 Pohjoinen Keski-Suomi";"02 Työtön";"2-3 v.";471
+"2026 Lokakuu";"7028 Pohjoinen Keski-Suomi";"02 Työtön";"3-4 v.";230
+"2026 Lokakuu";"7028 Pohjoinen Keski-Suomi";"02 Työtön";"4-5 v.";118
+"2026 Lokakuu";"7028 Pohjoinen Keski-Suomi";"02 Työtön";"Yli 5 v.";126
+"2026 Lokakuu";"7029 Pohjois- ja Itä-Lappi";"02 Työtön";"53-78 vkoa";109
+"2026 Lokakuu";"7029 Pohjois- ja Itä-Lappi";"02 Työtön";"79-104 vkoa";90
+"2026 Lokakuu";"7029 Pohjois- ja Itä-Lappi";"02 Työtön";"2-3 v.";109
+"2026 Lokakuu";"7029 Pohjois- ja Itä-Lappi";"02 Työtön";"3-4 v.";53
+"2026 Lokakuu";"7029 Pohjois- ja Itä-Lappi";"02 Työtön";"4-5 v.";29
+"2026 Lokakuu";"7029 Pohjois- ja Itä-Lappi";"02 Työtön";"Yli 5 v.";40
+"2026 Lokakuu";"7040 Pohjois-Karjala";"02 Työtön";"53-78 vkoa";1048
+"2026 Lokakuu";"7040 Pohjois-Karjala";"02 Työtön";"79-104 vkoa";744
+"2026 Lokakuu";"7040 Pohjois-Karjala";"02 Työtön";"2-3 v.";1193
+"2026 Lokakuu";"7040 Pohjois-Karjala";"02 Työtön";"3-4 v.";669
+"2026 Lokakuu";"7040 Pohjois-Karjala";"02 Työtön";"4-5 v.";379
+"2026 Lokakuu";"7040 Pohjois-Karjala";"02 Työtön";"Yli 5 v.";557
+"2026 Lokakuu";"7041 Porvoo";"02 Työtön";"53-78 vkoa";388
+"2026 Lokakuu";"7041 Porvoo";"02 Työtön";"79-104 vkoa";285
+"2026 Lokakuu";"7041 Porvoo";"02 Työtön";"2-3 v.";432
+"2026 Lokakuu";"7041 Porvoo";"02 Työtön";"3-4 v.";219
+"2026 Lokakuu";"7041 Porvoo";"02 Työtön";"4-5 v.";115
+"2026 Lokakuu";"7041 Porvoo";"02 Työtön";"Yli 5 v.";315
+"2026 Lokakuu";"7042 Päijät-Häme";"02 Työtön";"53-78 vkoa";385
+"2026 Lokakuu";"7042 Päijät-Häme";"02 Työtön";"79-104 vkoa";279
+"2026 Lokakuu";"7042 Päijät-Häme";"02 Työtön";"2-3 v.";496
+"2026 Lokakuu";"7042 Päijät-Häme";"02 Työtön";"3-4 v.";241
+"2026 Lokakuu";"7042 Päijät-Häme";"02 Työtön";"4-5 v.";147
+"2026 Lokakuu";"7042 Päijät-Häme";"02 Työtön";"Yli 5 v.";172
+"2026 Lokakuu";"7043 Raahe";"02 Työtön";"53-78 vkoa";247
+"2026 Lokakuu";"7043 Raahe";"02 Työtön";"79-104 vkoa";220
+"2026 Lokakuu";"7043 Raahe";"02 Työtön";"2-3 v.";305
+"2026 Lokakuu";"7043 Raahe";"02 Työtön";"3-4 v.";158
+"2026 Lokakuu";"7043 Raahe";"02 Työtön";"4-5 v.";69
+"2026 Lokakuu";"7043 Raahe";"02 Työtön";"Yli 5 v.";95
+"2026 Lokakuu";"7044 Rovaseutu";"02 Työtön";"53-78 vkoa";200
+"2026 Lokakuu";"7044 Rovaseutu";"02 Työtön";"79-104 vkoa";155
+"2026 Lokakuu";"7044 Rovaseutu";"02 Työtön";"2-3 v.";221
+"2026 Lokakuu";"7044 Rovaseutu";"02 Työtön";"3-4 v.";101
+"2026 Lokakuu";"7044 Rovaseutu";"02 Työtön";"4-5 v.";67
+"2026 Lokakuu";"7044 Rovaseutu";"02 Työtön";"Yli 5 v.";94
+"2026 Lokakuu";"7045 Salo";"02 Työtön";"53-78 vkoa";327
+"2026 Lokakuu";"7045 Salo";"02 Työtön";"79-104 vkoa";263
+"2026 Lokakuu";"7045 Salo";"02 Työtön";"2-3 v.";350
+"2026 Lokakuu";"7045 Salo";"02 Työtön";"3-4 v.";155
+"2026 Lokakuu";"7045 Salo";"02 Työtön";"4-5 v.";75
+"2026 Lokakuu";"7045 Salo";"02 Työtön";"Yli 5 v.";79
+"2026 Lokakuu";"7046 Satakunta";"02 Työtön";"53-78 vkoa";859
+"2026 Lokakuu";"7046 Satakunta";"02 Työtön";"79-104 vkoa";592
+"2026 Lokakuu";"7046 Satakunta";"02 Työtön";"2-3 v.";780
+"2026 Lokakuu";"7046 Satakunta";"02 Työtön";"3-4 v.";377
+"2026 Lokakuu";"7046 Satakunta";"02 Työtön";"4-5 v.";190
+"2026 Lokakuu";"7046 Satakunta";"02 Työtön";"Yli 5 v.";161
+"2026 Lokakuu";"7047 Savonlinna";"02 Työtön";"53-78 vkoa";206
+"2026 Lokakuu";"7047 Savonlinna";"02 Työtön";"79-104 vkoa";153
+"2026 Lokakuu";"7047 Savonlinna";"02 Työtön";"2-3 v.";229
+"2026 Lokakuu";"7047 Savonlinna";"02 Työtön";"3-4 v.";108
+"2026 Lokakuu";"7047 Savonlinna";"02 Työtön";"4-5 v.";59
+"2026 Lokakuu";"7047 Savonlinna";"02 Työtön";"Yli 5 v.";72
+"2026 Lokakuu";"7048 TyöLakeus";"02 Työtön";"53-78 vkoa";363
+"2026 Lokakuu";"7048 TyöLakeus";"02 Työtön";"79-104 vkoa";236
+"2026 Lokakuu";"7048 TyöLakeus";"02 Työtön";"2-3 v.";325
+"2026 Lokakuu";"7048 TyöLakeus";"02 Työtön";"3-4 v.";209
+"2026 Lokakuu";"7048 TyöLakeus";"02 Työtön";"4-5 v.";95
+"2026 Lokakuu";"7048 TyöLakeus";"02 Työtön";"Yli 5 v.";110
+"2026 Lokakuu";"7049 Suupohja";"02 Työtön";"53-78 vkoa";235
+"2026 Lokakuu";"7049 Suupohja";"02 Työtön";"79-104 vkoa";124
+"2026 Lokakuu";"7049 Suupohja";"02 Työtön";"2-3 v.";156
+"2026 Lokakuu";"7049 Suupohja";"02 Työtön";"3-4 v.";58
+"2026 Lokakuu";"7049 Suupohja";"02 Työtön";"4-5 v.";24
+"2026 Lokakuu";"7049 Suupohja";"02 Työtön";"Yli 5 v.";41
+"2026 Lokakuu";"7050 Tampereen seutu";"02 Työtön";"53-78 vkoa";4480
+"2026 Lokakuu";"7050 Tampereen seutu";"02 Työtön";"79-104 vkoa";2530
+"2026 Lokakuu";"7050 Tampereen seutu";"02 Työtön";"2-3 v.";3314
+"2026 Lokakuu";"7050 Tampereen seutu";"02 Työtön";"3-4 v.";1751
+"2026 Lokakuu";"7050 Tampereen seutu";"02 Työtön";"4-5 v.";1087
+"2026 Lokakuu";"7050 Tampereen seutu";"02 Työtön";"Yli 5 v.";1067
+"2026 Lokakuu";"7051 Tunturi-Lappi ja Pello";"02 Työtön";"53-78 vkoa";44
+"2026 Lokakuu";"7051 Tunturi-Lappi ja Pello";"02 Työtön";"79-104 vkoa";26
+"2026 Lokakuu";"7051 Tunturi-Lappi ja Pello";"02 Työtön";"2-3 v.";40
+"2026 Lokakuu";"7051 Tunturi-Lappi ja Pello";"02 Työtön";"3-4 v.";11
+"2026 Lokakuu";"7051 Tunturi-Lappi ja Pello";"02 Työtön";"4-5 v.";8
+"2026 Lokakuu";"7051 Tunturi-Lappi ja Pello";"02 Työtön";"Yli 5 v.";17
+"2026 Lokakuu";"7052 Turku";"02 Työtön";"53-78 vkoa";2516
+"2026 Lokakuu";"7052 Turku";"02 Työtön";"79-104 vkoa";1982
+"2026 Lokakuu";"7052 Turku";"02 Työtön";"2-3 v.";2818
+"2026 Lokakuu";"7052 Turku";"02 Työtön";"3-4 v.";1235
+"2026 Lokakuu";"7052 Turku";"02 Työtön";"4-5 v.";601
+"2026 Lokakuu";"7052 Turku";"02 Työtön";"Yli 5 v.";950
+"2026 Lokakuu";"7053 TyöHäme";"02 Työtön";"53-78 vkoa";579
+"2026 Lokakuu";"7053 TyöHäme";"02 Työtön";"79-104 vkoa";444
+"2026 Lokakuu";"7053 TyöHäme";"02 Työtön";"2-3 v.";641
+"2026 Lokakuu";"7053 TyöHäme";"02 Työtön";"3-4 v.";266
+"2026 Lokakuu";"7053 TyöHäme";"02 Työtön";"4-5 v.";130
+"2026 Lokakuu";"7053 TyöHäme";"02 Työtön";"Yli 5 v.";286
+"2026 Lokakuu";"7054 Vantaa";"02 Työtön";"53-78 vkoa";2246
+"2026 Lokakuu";"7054 Vantaa";"02 Työtön";"79-104 vkoa";1513
+"2026 Lokakuu";"7054 Vantaa";"02 Työtön";"2-3 v.";2033
+"2026 Lokakuu";"7054 Vantaa";"02 Työtön";"3-4 v.";1037
+"2026 Lokakuu";"7054 Vantaa";"02 Työtön";"4-5 v.";555
+"2026 Lokakuu";"7054 Vantaa";"02 Työtön";"Yli 5 v.";1022
+"2026 Lokakuu";"7055 Ylivieska-Kalajoki-Nivala";"02 Työtön";"53-78 vkoa";168
+"2026 Lokakuu";"7055 Ylivieska-Kalajoki-Nivala";"02 Työtön";"79-104 vkoa";102
+"2026 Lokakuu";"7055 Ylivieska-Kalajoki-Nivala";"02 Työtön";"2-3 v.";193
+"2026 Lokakuu";"7055 Ylivieska-Kalajoki-Nivala";"02 Työtön";"3-4 v.";92
+"2026 Lokakuu";"7055 Ylivieska-Kalajoki-Nivala";"02 Työtön";"4-5 v.";63
+"2026 Lokakuu";"7055 Ylivieska-Kalajoki-Nivala";"02 Työtön";"Yli 5 v.";55
+"2026 Lokakuu";"7056 Ylä-Savo";"02 Työtön";"53-78 vkoa";197
+"2026 Lokakuu";"7056 Ylä-Savo";"02 Työtön";"79-104 vkoa";125
+"2026 Lokakuu";"7056 Ylä-Savo";"02 Työtön";"2-3 v.";187
+"2026 Lokakuu";"7056 Ylä-Savo";"02 Työtön";"3-4 v.";72
+"2026 Lokakuu";"7056 Ylä-Savo";"02 Työtön";"4-5 v.";45
+"2026 Lokakuu";"7056 Ylä-Savo";"02 Työtön";"Yli 5 v.";106
 "2026 Syyskuu";"KOKO MAA";"02 Työtön";"53-78 vkoa";34866
 "2026 Syyskuu";"KOKO MAA";"02 Työtön";"79-104 vkoa";25788
 "2026 Syyskuu";"KOKO MAA";"02 Työtön";"2-3 v.";35169
